@@ -1,0 +1,13 @@
+name: Daily Heartbeat
+on:
+  workflow_dispatch: # This allows me to run it manually for testing
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run heartbeat script
+        run: python heartbeat.py
