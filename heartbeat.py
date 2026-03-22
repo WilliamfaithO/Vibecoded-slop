@@ -1,47 +1,83 @@
 import requests
-from bs4 import BeautifulSoup
+import feedparser
 import datetime
+import os
+import random
 
 def get_github_trends():
-    """Path 1: The Trend Hunter"""
+    """Path 1: The Trend Hunter (Secured & Randomized)"""
+    token = os.getenv("GH_TOKEN")
+    headers = {
+        "Authorization": f"token {token}" if token else "",
+        "User-Agent": "Vibecoded-Slop-Engine/1.0"
+    }
     try:
-        url = "https://api.github.com/search/repositories?q=language:python&sort=stars&order=desc"
-        res = requests.get(url).json()
+        page = random.randint(1, 3)
+        url = f"https://api.github.com/search/repositories?q=language:python&sort=stars&order=desc&page={page}"
+        res = requests.get(url, headers=headers).json()
         repo = res['items'][0]
-        return f"🔥 TREND: {repo['full_name']} | {repo['html_url']}\n"
+        return f"| 🔥 **Trend** | **{repo['full_name']}**: {repo['description'][:100]}... | [View Repo]({repo['html_url']}) |\n"
     except Exception as e:
-        return f"🔥 TREND: Error fetching trends ({e})\n"
+        return f"| 🔥 **Trend** | API Error / Rate Limit | N/A |\n"
 
 def get_arxiv_research():
-    """Path 2: The Research Sentinel"""
+    """Path 2: The Research Sentinel (Deep Abstract via Feedparser)"""
     try:
         url = "http://export.arxiv.org/api/query?search_query=cat:cs.AI&max_results=1&sortBy=submittedDate&sortOrder=descending"
-        res = requests.get(url)
-        soup = BeautifulSoup(res.content, "xml") 
-        # ArXiv XML usually has the main title first, then entry titles. 
-        # We skip the first one to get the actual paper.
-        entries = soup.find_all("entry")
-        if entries:
-            title = entries[0].find("title").text
-            link = entries[0].find("id").text
-            return f"🧠 RESEARCH: {title.strip()} | {link}\n"
-        return "🧠 RESEARCH: No new papers found.\n"
-    except Exception as e:
-        return f"🧠 RESEARCH: Error fetching ArXiv ({e})\n"
+        feed = feedparser.parse(url)
+        if feed.entries:
+            entry = feed.entries[0]
+            title = entry.title.replace('\n', ' ')
+            # Pulls a solid paragraph for actual reading
+            summary = entry.summary.replace('\n', ' ')[:450]
+            link = entry.link
+            return f"| 🧠 **Research** | **{title}**: {summary}... | [Read Paper]({link}) |\n"
+    except:
+        return "| 🧠 **Research** | Sentinel Node Offline | N/A |\n"
 
 def get_directory_leads():
-    """Path 3: The Lead Generator"""
-    return "💼 LEAD: Check YC 'Newly Launched' for today's batch.\n"
+    """Path 3: The Lead Generator (Live YC API)"""
+    try:
+        url = "https://yc-oss.github.io/api/companies/all.json"
+        res = requests.get(url).json()
+        latest = res[-1] 
+        name = latest.get('name', 'Stealth Startup')
+        desc = latest.get('description', 'No description provided.')
+        site = latest.get('website', '#')
+        return f"| 💼 **Lead** | **{name}**: {desc} | [Visit Site]({site}) |\n"
+    except:
+        return "| 💼 **Lead** | YC Feed Timeout | N/A |\n"
 
-# --- Main Execution ---
 if __name__ == "__main__":
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
-    content = f"--- Pulse {now} ---\n"
-    content += get_github_trends()
-    content += get_arxiv_research()
-    content += get_directory_leads() + "\n"
-
-    with open("pulse.txt", "a") as f:
+    
+    # 1. Build the Pulse Content
+    header = f"\n### ⚡ Pulse Log: {now} UTC\n"
+    table_head = "| Category | Insight & Intelligence | Action |\n| :--- | :--- | :--- |\n"
+    content = header + table_head + get_github_trends() + get_arxiv_research() + get_directory_leads() + "\n"
+    
+    # 2. Append to the historical log (pulse.txt)
+    with open("pulse.txt", "a", encoding="utf-8") as f:
         f.write(content)
+    
+    # 3. Inject into README.md
+    try:
+        with open("README.md", "r", encoding="utf-8") as f:
+            readme = f.read()
+            
+        start_marker = ""
+        end_marker = ""
+        
+        if start_marker in readme and end_marker in readme:
+            # Split the README at the markers and sandwich the new content in between
+            before = readme.split(start_marker)[0]
+            after = readme.split(end_marker)[1]
+            new_readme = f"{before}{start_marker}\n{content.strip()}\n{end_marker}{after}"
+            
+            with open("README.md", "w", encoding="utf-8") as f:
+                f.write(new_readme)
+            print("README storefront successfully updated.")
+    except Exception as e:
+        print(f"README injection failed: {e}")
 
-    print("Intelligence Engine executed successfully.")
+    print(f"High-octane pulse recorded at {now}")
