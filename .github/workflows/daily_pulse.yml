@@ -1,5 +1,8 @@
 name: Daily Heartbeat
 on:
+  push:
+    branches:
+      -main #run automatically when I push to main 
   workflow_dispatch: # This allows me to run it manually for testing
 
 jobs:
