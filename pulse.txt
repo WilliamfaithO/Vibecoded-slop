@@ -1,2 +1,7 @@
 Vibe Check at: 2026-03-22 15:28:12.174243
 Vibe Check at: 2026-03-22 18:00:21.892465
+--- Pulse 2026-03-22 20:50 ---
+🔥 TREND: public-apis/public-apis | https://github.com/public-apis/public-apis
+🧠 RESEARCH: NavTrust: Benchmarking Trustworthiness for Embodied Navigation | http://arxiv.org/abs/2603.19229v1
+💼 LEAD: Check YC 'Newly Launched' for today's batch.
+
