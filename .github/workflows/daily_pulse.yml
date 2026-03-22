@@ -7,14 +7,16 @@
   run: python heartbeat.py
 
 - name: Commit & push if changed
+- name: Commit & push if changed
+
   run: |
-   git config user.name  "github-actions[bot]"
-   git config user.email "github-actions[bot]@users.noreply.github.com"
-   
-   git add pulse.txt
-   
-   # Only proceed if file actually changed
-   git diff --staged --quiet && { echo "pulse.txt unchanged → skipping commit"; exit 0; }
-   
-   git commit -m "chore: heartbeat pulse $(date -u +'%Y-%m-%d %H:%M UTC')"
-   git push
+    git config user.name  "github-actions[bot]"
+    git config user.email "github-actions[bot]@users.noreply.github.com"
+    
+    git add pulse.txt
+    
+    # Only proceed if file actually changed
+    git diff --staged --quiet && { echo "pulse.txt unchanged → skipping commit"; exit 0; }
+    
+    git commit -m "chore: heartbeat pulse $(date -u +'%Y-%m-%d %H:%M UTC')"
+    git push
