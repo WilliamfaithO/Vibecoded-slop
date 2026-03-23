@@ -21,6 +21,72 @@ The Heartbeat Engine automatically updates the log every morning.
 -----
 
 <!-- PULSE_START -->
+
+### ⚡ Pulse Log: 2026-03-23 07:38 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **unslothai/unsloth**: Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.... | [View Repo](https://github.com/unslothai/unsloth) |
+| 🧠 **Research** | **From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering**: Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtle yet consequential edits outside the mask are treated as natural. We reformulate VLM image tampering from coarse region labels to a pixel-grounded, meaning and language-aware task. First, we introduce a taxonomy spanning edit primitives (replace/rem... | [Read Paper](https://arxiv.org/abs/2603.20193v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
+
+### ⚡ Pulse Log: 2026-03-23 07:29 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **unslothai/unsloth**: Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.... | [View Repo](https://github.com/unslothai/unsloth) |
+| 🧠 **Research** | **From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering**: Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtle yet consequential edits outside the mask are treated as natural. We reformulate VLM image tampering from coarse region labels to a pixel-grounded, meaning and language-aware task. First, we introduce a taxonomy spanning edit primitives (replace/rem... | [Read Paper](https://arxiv.org/abs/2603.20193v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
+
+
+### ⚡ Pulse Log: 2026-03-23 06:56 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering**: Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtle yet consequential edits outside the mask are treated as natural. We reformulate VLM image tampering from coarse region labels to a pixel-grounded, meaning and language-aware task. First, we introduce a taxonomy spanning edit primitives (replace/rem... | [Read Paper](https://arxiv.org/abs/2603.20193v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
+
+
+### ⚡ Pulse Log: 2026-03-22 23:56 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **NavTrust: Benchmarking Trustworthiness for Embodied Navigation**: There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agents navigate to a specified target object. However, existing work primarily evaluates model performance under nominal conditions, overlooking the potential corruptions that arise in real-world settings. To address this gap, we present NavTrust, a unifi... | [Read Paper](https://arxiv.org/abs/2603.19229v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
+
+
+### ⚡ Pulse Log: 2026-03-22 23:48 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **fighting41love/funNLP**: 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模... | [View Repo](https://github.com/fighting41love/funNLP) |
+| 🧠 **Research** | **NavTrust: Benchmarking Trustworthiness for Embodied Navigation**: There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agents navigate to a specified target object. However, existing work primarily evaluates model performance under nominal conditions, overlooking the potential corruptions that arise in real-world settings. To address this gap, we present NavTrust, a unifi... | [Read Paper](https://arxiv.org/abs/2603.19229v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
+
+
+### ⚡ Pulse Log: 2026-03-22 23:44 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **fighting41love/funNLP**: 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模... | [View Repo](https://github.com/fighting41love/funNLP) |
+| 🧠 **Research** | **NavTrust: Benchmarking Trustworthiness for Embodied Navigation**: There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agents navigate to a specified target object. However, existing work primarily evaluates model performance under nominal conditions, overlooking the potential corruptions that arise in real-world settings. To address this gap, we present NavTrust, a unifi... | [Read Paper](https://arxiv.org/abs/2603.19229v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
+
+
+### ⚡ Pulse Log:Vibe Check at: 2026-03-22 15:28:12.174243
+Vibe Check at: 2026-03-22 18:00:21.892465
+--- Pulse 2026-03-22 20:50 ---
+🔥 TREND: public-apis/public-apis | https://github.com/public-apis/public-apis
+🧠 RESEARCH: NavTrust: Benchmarking Trustworthiness for Embodied Navigation | http://arxiv.org/abs/2603.19229v1
+💼 LEAD: Check YC 'Newly Launched' for today's batch.
+
+--- Pulse 2026-03-22 21:04 ---
+🔥 TREND: public-apis/public-apis | https://github.com/public-apis/public-apis
+🧠 RESEARCH: NavTrust: Benchmarking Trustworthiness for Embodied Navigation | http://arxiv.org/abs/2603.19229v1
+💼 LEAD: Check YC 'Newly Launched' for today's batch.
+
 <!-- PULSE_END -->
 
 ---
