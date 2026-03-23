@@ -34,3 +34,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **NavTrust: Benchmarking Trustworthiness for Embodied Navigation**: There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agents navigate to a specified target object. However, existing work primarily evaluates model performance under nominal conditions, overlooking the potential corruptions that arise in real-world settings. To address this gap, we present NavTrust, a unifi... | [Read Paper](https://arxiv.org/abs/2603.19229v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
 
+
+### ⚡ Pulse Log: 2026-03-23 06:56 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering**: Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtle yet consequential edits outside the mask are treated as natural. We reformulate VLM image tampering from coarse region labels to a pixel-grounded, meaning and language-aware task. First, we introduce a taxonomy spanning edit primitives (replace/rem... | [Read Paper](https://arxiv.org/abs/2603.20193v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
