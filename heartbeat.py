@@ -79,8 +79,8 @@ if __name__ == "__main__":
         with open("README.md", "r", encoding="utf-8") as f:
             readme = f.read()
             
-        start_marker = ""
-        end_marker = ""
+        start_marker = "<!-- PULSE_START -->"
+        end_marker = "<!-- PULSE_END -->"
         
         if start_marker in readme and end_marker in readme:
             # Sandwich the rolling dashboard between the markers
