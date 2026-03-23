@@ -18,6 +18,11 @@ The Heartbeat Engine automatically updates the log every morning.
 - [x] Secure GitHub API with Encrypted Tokens
 - [ ] Implement AI-Summarization with an external LLM API
 
+-----
+
+<!-- PULSE_START -->
+<!-- PULSE_END -->
+
 ---
 ```python
 print("aggressive learning")
