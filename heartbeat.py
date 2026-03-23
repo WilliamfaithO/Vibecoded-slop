@@ -51,17 +51,31 @@ def get_directory_leads():
 if __name__ == "__main__":
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     
-    # 1. Build the Pulse Content
+    # 1. Build THIS Run's Pulse Content
     header = f"\n### ⚡ Pulse Log: {now} UTC\n"
     table_head = "| Category | Insight & Intelligence | Action |\n| :--- | :--- | :--- |\n"
-    content = header + table_head + get_github_trends() + get_arxiv_research() + get_directory_leads() + "\n"
+    current_pulse = header + table_head + get_github_trends() + get_arxiv_research() + get_directory_leads() + "\n"
     
-    # 2. Append to the historical log (pulse.txt)
+    # 2. Append to the permanent historical log (pulse.txt)
     with open("pulse.txt", "a", encoding="utf-8") as f:
-        f.write(content)
+        f.write(current_pulse)
     
-    # 3. Inject into README.md
+    # 3. Read the log, grab the last 7, and flip them (Newest first)
     try:
+        with open("pulse.txt", "r", encoding="utf-8") as f:
+            all_logs = f.read()
+        
+        # Split the text file by the header to separate each run into a list item
+        blocks = [b for b in all_logs.split("### ⚡ Pulse Log:") if b.strip()]
+        
+        # Take the last 7 blocks, and reverse the list so the newest is at the top
+        last_7 = blocks[-7:]
+        last_7.reverse()
+        
+        # Rebuild the string for the README
+        readme_table_content = "\n".join([f"### ⚡ Pulse Log:{block}" for block in last_7])
+        
+        # 4. Inject into README.md
         with open("README.md", "r", encoding="utf-8") as f:
             readme = f.read()
             
@@ -69,14 +83,17 @@ if __name__ == "__main__":
         end_marker = ""
         
         if start_marker in readme and end_marker in readme:
-            # Split the README at the markers and sandwich the new content in between
+            # Sandwich the rolling dashboard between the markers
             before = readme.split(start_marker)[0]
             after = readme.split(end_marker)[1]
-            new_readme = f"{before}{start_marker}\n{content.strip()}\n{end_marker}{after}"
+            new_readme = f"{before}{start_marker}\n\n{readme_table_content.strip()}\n\n{end_marker}{after}"
             
             with open("README.md", "w", encoding="utf-8") as f:
                 f.write(new_readme)
-            print("README storefront successfully updated.")
+            print("README storefront successfully updated with the latest 7 pulses.")
+        else:
+            print("Could not find PULSE_START or PULSE_END markers in README.md")
+            
     except Exception as e:
         print(f"README injection failed: {e}")
 
