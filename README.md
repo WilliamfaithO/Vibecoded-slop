@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-03-28 07:41 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **karpathy/autoresearch**: AI agents running research on single-GPU nanochat training automatically... | [View Repo](https://github.com/karpathy/autoresearch) |
+| 🧠 **Research** | **Vega: Learning to Drive with Natural Language Instructions**: Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene descriptions or reasoning and lack the flexibility to follow diverse user instructions for personalized driving. To address this, we first construct a large-scale driving dataset (InstructScene) containing around 100,000 scenes annotated with diverse... | [Read Paper](https://arxiv.org/abs/2603.25741v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
+
 ### ⚡ Pulse Log: 2026-03-27 07:57 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **unslothai/unsloth**: Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gem... | [View Repo](https://github.com/unslothai/unsloth) |
 | 🧠 **Research** | **Vega: Learning to Drive with Natural Language Instructions**: Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene descriptions or reasoning and lack the flexibility to follow diverse user instructions for personalized driving. To address this, we first construct a large-scale driving dataset (InstructScene) containing around 100,000 scenes annotated with diverse... | [Read Paper](https://arxiv.org/abs/2603.25741v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
 
 
 ### ⚡ Pulse Log: 2026-03-26 07:59 UTC
@@ -67,15 +76,6 @@ The Heartbeat Engine automatically updates the log every morning.
 
 
 ### ⚡ Pulse Log: 2026-03-23 07:38 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **unslothai/unsloth**: Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.... | [View Repo](https://github.com/unslothai/unsloth) |
-| 🧠 **Research** | **From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering**: Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtle yet consequential edits outside the mask are treated as natural. We reformulate VLM image tampering from coarse region labels to a pixel-grounded, meaning and language-aware task. First, we introduce a taxonomy spanning edit primitives (replace/rem... | [Read Paper](https://arxiv.org/abs/2603.20193v1) |
-| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
-
-
-
-### ⚡ Pulse Log: 2026-03-23 07:29 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **unslothai/unsloth**: Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.... | [View Repo](https://github.com/unslothai/unsloth) |
