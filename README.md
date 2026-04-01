@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-04-01 08:13 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **Automatic Identification of Parallelizable Loops Using Transformer-Based Source Code Representations**: Automatic parallelization remains a challenging problem in software engineering, particularly in identifying code regions where loops can be safely executed in parallel on modern multi-core architectures. Traditional static analysis techniques, such as dependence analysis and polyhedral models, often struggle with irregular or dynamically structured code. In this work, we propose a Transformer-based approach to classify the parallelization potent... | [Read Paper](https://arxiv.org/abs/2603.30040v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
+
 ### ⚡ Pulse Log: 2026-03-31 08:05 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **meta-llama/llama**: Inference code for Llama models... | [View Repo](https://github.com/meta-llama/llama) |
 | 🧠 **Research** | **Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds**: Similarity measures are widely used to interpret the representational geometries used by neural networks to solve tasks. Yet, because existing methods compare the extrinsic geometry of representations in state space, rather than their intrinsic geometry, they may fail to capture subtle yet crucial distinctions between fundamentally different neural network solutions. Here, we introduce metric similarity analysis (MSA), a novel method which levera... | [Read Paper](https://arxiv.org/abs/2603.28764v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
 
 
 ### ⚡ Pulse Log: 2026-03-28 07:41 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **unslothai/unsloth**: Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gem... | [View Repo](https://github.com/unslothai/unsloth) |
 | 🧠 **Research** | **WorldCache: Content-Aware Caching for Accelerated Video World Models**: Diffusion Transformers (DiTs) power high-fidelity video world models but remain computationally expensive due to sequential denoising and costly spatio-temporal attention. Training-free feature caching accelerates inference by reusing intermediate activations across denoising steps; however, existing methods largely rely on a Zero-Order Hold assumption i.e., reusing cached features as static snapshots when global drift is small. This often leads ... | [Read Paper](https://arxiv.org/abs/2603.22286v1) |
-| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
-
-
-
-### ⚡ Pulse Log: 2026-03-23 07:59 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
-| 🧠 **Research** | **From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering**: Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtle yet consequential edits outside the mask are treated as natural. We reformulate VLM image tampering from coarse region labels to a pixel-grounded, meaning and language-aware task. First, we introduce a taxonomy spanning edit primitives (replace/rem... | [Read Paper](https://arxiv.org/abs/2603.20193v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
 
 <!-- PULSE_END -->
