@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-04-08 08:10 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **sherlock-project/sherlock**: Hunt down social media accounts by username across social networks... | [View Repo](https://github.com/sherlock-project/sherlock) |
+| 🧠 **Research** | **In-Place Test-Time Training**: The static ``train then deploy" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real-world tasks. Test-Time Training (TTT) offers a compelling alternative by updating a subset of model parameters (fast weights) at inference time, yet its potential in the current LLM ecosystem is hindered by critical barriers including architectural ... | [Read Paper](https://arxiv.org/abs/2604.06169v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
+
 ### ⚡ Pulse Log: 2026-04-06 08:20 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **CorentinJ/Real-Time-Voice-Cloning**: Clone a voice in 5 seconds to generate arbitrary speech in real-time... | [View Repo](https://github.com/CorentinJ/Real-Time-Voice-Cloning) |
 | 🧠 **Research** | **Enhancing Robustness of Federated Learning via Server Learning**: This paper explores the use of server learning for enhancing the robustness of federated learning against malicious attacks even when clients' training data are not independent and identically distributed. We propose a heuristic algorithm that uses server learning and client update filtering in combination with geometric median aggregation. We demonstrate via experiments that this approach can achieve significant improvement in model accuracy eve... | [Read Paper](https://arxiv.org/abs/2604.03226v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
 
 
 ### ⚡ Pulse Log: 2026-04-05 07:53 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **meta-llama/llama**: Inference code for Llama models... | [View Repo](https://github.com/meta-llama/llama) |
 | 🧠 **Research** | **Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds**: Similarity measures are widely used to interpret the representational geometries used by neural networks to solve tasks. Yet, because existing methods compare the extrinsic geometry of representations in state space, rather than their intrinsic geometry, they may fail to capture subtle yet crucial distinctions between fundamentally different neural network solutions. Here, we introduce metric similarity analysis (MSA), a novel method which levera... | [Read Paper](https://arxiv.org/abs/2603.28764v1) |
-| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
-
-
-
-### ⚡ Pulse Log: 2026-03-28 07:41 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **karpathy/autoresearch**: AI agents running research on single-GPU nanochat training automatically... | [View Repo](https://github.com/karpathy/autoresearch) |
-| 🧠 **Research** | **Vega: Learning to Drive with Natural Language Instructions**: Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene descriptions or reasoning and lack the flexibility to follow diverse user instructions for personalized driving. To address this, we first construct a large-scale driving dataset (InstructScene) containing around 100,000 scenes annotated with diverse... | [Read Paper](https://arxiv.org/abs/2603.25741v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
 
 <!-- PULSE_END -->
