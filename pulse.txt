@@ -162,3 +162,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **In-Place Test-Time Training**: The static ``train then deploy" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real-world tasks. Test-Time Training (TTT) offers a compelling alternative by updating a subset of model parameters (fast weights) at inference time, yet its potential in the current LLM ecosystem is hindered by critical barriers including architectural ... | [Read Paper](https://arxiv.org/abs/2604.06169v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
 
+
+### ⚡ Pulse Log: 2026-04-09 08:17 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **Toward a Tractability Frontier for Exact Relevance Certification**: Exact relevance certification asks which coordinates are necessary to determine the optimal action in a coordinate-structured decision problem. The tractable families treated here admit a finite primitive basis, but optimizer-quotient realizability is maximal, so quotient shape alone cannot characterize the frontier.   We prove a meta-impossibility theorem for efficiently checkable structural predicates invariant under the theorem-forced closure ... | [Read Paper](https://arxiv.org/abs/2604.07349v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+

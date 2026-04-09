@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-04-09 08:17 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **Toward a Tractability Frontier for Exact Relevance Certification**: Exact relevance certification asks which coordinates are necessary to determine the optimal action in a coordinate-structured decision problem. The tractable families treated here admit a finite primitive basis, but optimizer-quotient realizability is maximal, so quotient shape alone cannot characterize the frontier.   We prove a meta-impossibility theorem for efficiently checkable structural predicates invariant under the theorem-forced closure ... | [Read Paper](https://arxiv.org/abs/2604.07349v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
+
 ### ⚡ Pulse Log: 2026-04-08 08:10 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **sherlock-project/sherlock**: Hunt down social media accounts by username across social networks... | [View Repo](https://github.com/sherlock-project/sherlock) |
 | 🧠 **Research** | **In-Place Test-Time Training**: The static ``train then deploy" paradigm fundamentally limits Large Language Models (LLMs) from dynamically adapting their weights in response to continuous streams of new information inherent in real-world tasks. Test-Time Training (TTT) offers a compelling alternative by updating a subset of model parameters (fast weights) at inference time, yet its potential in the current LLM ecosystem is hindered by critical barriers including architectural ... | [Read Paper](https://arxiv.org/abs/2604.06169v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
 
 
 ### ⚡ Pulse Log: 2026-04-06 08:20 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
 | 🧠 **Research** | **Automatic Identification of Parallelizable Loops Using Transformer-Based Source Code Representations**: Automatic parallelization remains a challenging problem in software engineering, particularly in identifying code regions where loops can be safely executed in parallel on modern multi-core architectures. Traditional static analysis techniques, such as dependence analysis and polyhedral models, often struggle with irregular or dynamically structured code. In this work, we propose a Transformer-based approach to classify the parallelization potent... | [Read Paper](https://arxiv.org/abs/2603.30040v1) |
-| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
-
-
-
-### ⚡ Pulse Log: 2026-03-31 08:05 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **meta-llama/llama**: Inference code for Llama models... | [View Repo](https://github.com/meta-llama/llama) |
-| 🧠 **Research** | **Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds**: Similarity measures are widely used to interpret the representational geometries used by neural networks to solve tasks. Yet, because existing methods compare the extrinsic geometry of representations in state space, rather than their intrinsic geometry, they may fail to capture subtle yet crucial distinctions between fundamentally different neural network solutions. Here, we introduce metric similarity analysis (MSA), a novel method which levera... | [Read Paper](https://arxiv.org/abs/2603.28764v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
 
 <!-- PULSE_END -->
