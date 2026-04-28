@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-04-28 09:15 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components**: Adaptive programming practice often relies on fixed libraries of worked examples and practice problems, which require substantial authoring effort and may not correspond well to the logical errors and partial solutions students produce while writing code. As a result, students may receive learning content that does not directly address the concepts they are working to understand, while instructors must either invest additional effort in expanding... | [Read Paper](https://arxiv.org/abs/2604.24758v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
+
 ### ⚡ Pulse Log: 2026-04-27 09:14 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **sherlock-project/sherlock**: Hunt down social media accounts by username across social networks... | [View Repo](https://github.com/sherlock-project/sherlock) |
 | 🧠 **Research** | **Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond**: As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, navigate software, coordinate with others, or design experiments require predictive environment models, yet the term world model carries different meanings across research communities. We introduce a "levels x laws" taxonomy organized along two axes. T... | [Read Paper](https://arxiv.org/abs/2604.22748v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
 
 
 ### ⚡ Pulse Log: 2026-04-26 08:14 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **Asabeneh/30-Days-Of-Python**: The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming ... | [View Repo](https://github.com/Asabeneh/30-Days-Of-Python) |
 | 🧠 **Research** | **Generalization at the Edge of Stability**: Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this regime often yields improved generalization performance, yet the underlying mechanism remains poorly understood. In this work, we represent stochastic optimizers as random dynamical systems, which often converge to a fractal attractor set (rather than ... | [Read Paper](https://arxiv.org/abs/2604.19740v1) |
-| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
-
-
-
-### ⚡ Pulse Log: 2026-04-21 08:51 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
-| 🧠 **Research** | **MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval**: Mathematical problem solving remains a challenging test of reasoning for large language and multimodal models, yet existing benchmarks are limited in size, language coverage, and task diversity. We introduce MathNet, a high-quality, large-scale, multimodal, and multilingual dataset of Olympiad-level math problems together with a benchmark for evaluating mathematical reasoning in generative models and mathematical retrieval in embedding-based syst... | [Read Paper](https://arxiv.org/abs/2604.18584v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
 
 <!-- PULSE_END -->
