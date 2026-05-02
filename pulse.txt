@@ -346,3 +346,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **Computing Equilibrium beyond Unilateral Deviation**: Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against profitable coordinated deviations by coalitions. Although the literature proposes solution concepts that provide stability against multilateral deviations (\emph{e.g.}, strong Nash and coalition-proof equilibrium), these generally fail to exist. In t... | [Read Paper](https://arxiv.org/abs/2604.28186v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
 
+
+### ⚡ Pulse Log: 2026-05-02 08:19 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **Computing Equilibrium beyond Unilateral Deviation**: Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against profitable coordinated deviations by coalitions. Although the literature proposes solution concepts that provide stability against multilateral deviations (\emph{e.g.}, strong Nash and coalition-proof equilibrium), these generally fail to exist. In t... | [Read Paper](https://arxiv.org/abs/2604.28186v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+

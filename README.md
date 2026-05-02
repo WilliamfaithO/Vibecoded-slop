@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-05-02 08:19 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **Computing Equilibrium beyond Unilateral Deviation**: Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against profitable coordinated deviations by coalitions. Although the literature proposes solution concepts that provide stability against multilateral deviations (\emph{e.g.}, strong Nash and coalition-proof equilibrium), these generally fail to exist. In t... | [Read Paper](https://arxiv.org/abs/2604.28186v1) |
+| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
+
 ### ⚡ Pulse Log: 2026-05-01 08:56 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **sherlock-project/sherlock**: Hunt down social media accounts by username across social networks... | [View Repo](https://github.com/sherlock-project/sherlock) |
 | 🧠 **Research** | **Computing Equilibrium beyond Unilateral Deviation**: Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against profitable coordinated deviations by coalitions. Although the literature proposes solution concepts that provide stability against multilateral deviations (\emph{e.g.}, strong Nash and coalition-proof equilibrium), these generally fail to exist. In t... | [Read Paper](https://arxiv.org/abs/2604.28186v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
 
 
 ### ⚡ Pulse Log: 2026-04-30 09:08 UTC
@@ -70,15 +79,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
-| 🧠 **Research** | **Seeing Fast and Slow: Learning the Flow of Time in Videos**: How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention has been paid to perceiving and controlling the passage of time. In this paper, we study time as a learnable visual concept and develop models for reasoning about and manipulating the flow of time in videos. We first exploit the multimodal cues and t... | [Read Paper](https://arxiv.org/abs/2604.21931v1) |
-| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
-
-
-
-### ⚡ Pulse Log: 2026-04-25 08:03 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **bregman-arie/devops-exercises**: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack... | [View Repo](https://github.com/bregman-arie/devops-exercises) |
 | 🧠 **Research** | **Seeing Fast and Slow: Learning the Flow of Time in Videos**: How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention has been paid to perceiving and controlling the passage of time. In this paper, we study time as a learnable visual concept and develop models for reasoning about and manipulating the flow of time in videos. We first exploit the multimodal cues and t... | [Read Paper](https://arxiv.org/abs/2604.21931v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
 
