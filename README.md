@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-05-06 09:19 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **Safety and accuracy follow different scaling laws in clinical large language models**: Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. This assumption is incomplete in medicine, where a few confident, high-risk, or evidence-contradicting errors can matter more than average benchmark performance. We introduce SaFE-Scale, a framework for measuring how clinical LLM safety changes across m... | [Read Paper](https://arxiv.org/abs/2605.04039v1) |
+| 💼 **Lead** | **Huscarl**: No description provided. | [Visit Site](https://www.huscarl.io/) |
+
+
 ### ⚡ Pulse Log: 2026-05-04 09:13 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **openinterpreter/open-interpreter**: A natural language interface for computers... | [View Repo](https://github.com/openinterpreter/open-interpreter) |
 | 🧠 **Research** | **Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs**: While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a "Visual Signal Dilution" phenomenon, where the accumulation of textual history expands the attention partition function, causing visual attention to decay inversely with generated sequence length. To counteract this, we propose Persistent Visual Memory (PVM), a lightweight learnable module designed to ensure sustained, on-... | [Read Paper](https://arxiv.org/abs/2605.00814v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
+
 
 
 ### ⚡ Pulse Log: 2026-05-03 08:44 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
 | 🧠 **Research** | **Recursive Multi-Agent Systems**: Recursive or looped language models have recently emerged as a new scaling axis by iteratively refining the same model computation over latent states to deepen reasoning. We extend such scaling principle from a single model to multi-agent systems, and ask: Can agent collaboration itself be scaled through recursion? To this end, we introduce RecursiveMAS, a recursive multi-agent framework that casts the entire system as a unified latent-space recu... | [Read Paper](https://arxiv.org/abs/2604.25917v1) |
-| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
-
-
-
-### ⚡ Pulse Log: 2026-04-28 09:15 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
-| 🧠 **Research** | **Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components**: Adaptive programming practice often relies on fixed libraries of worked examples and practice problems, which require substantial authoring effort and may not correspond well to the logical errors and partial solutions students produce while writing code. As a result, students may receive learning content that does not directly address the concepts they are working to understand, while instructors must either invest additional effort in expanding... | [Read Paper](https://arxiv.org/abs/2604.24758v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
 
 <!-- PULSE_END -->

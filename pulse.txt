@@ -370,3 +370,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs**: While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a "Visual Signal Dilution" phenomenon, where the accumulation of textual history expands the attention partition function, causing visual attention to decay inversely with generated sequence length. To counteract this, we propose Persistent Visual Memory (PVM), a lightweight learnable module designed to ensure sustained, on-... | [Read Paper](https://arxiv.org/abs/2605.00814v1) |
 | 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
 
+
+### ⚡ Pulse Log: 2026-05-06 09:19 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **Safety and accuracy follow different scaling laws in clinical large language models**: Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. This assumption is incomplete in medicine, where a few confident, high-risk, or evidence-contradicting errors can matter more than average benchmark performance. We introduce SaFE-Scale, a framework for measuring how clinical LLM safety changes across m... | [Read Paper](https://arxiv.org/abs/2605.04039v1) |
+| 💼 **Lead** | **Huscarl**: No description provided. | [Visit Site](https://www.huscarl.io/) |
+
