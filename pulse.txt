@@ -394,3 +394,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**: For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a new scene and enables per-frame control of intrinsic and extrinsic camera parameters. ActCam builds on any pretrained image-to-video diffusion model that a... | [Read Paper](https://arxiv.org/abs/2605.06667v1) |
 | 💼 **Lead** | **Huscarl**: No description provided. | [Visit Site](https://www.huscarl.io/) |
 
+
+### ⚡ Pulse Log: 2026-05-10 08:49 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**: For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a new scene and enables per-frame control of intrinsic and extrinsic camera parameters. ActCam builds on any pretrained image-to-video diffusion model that a... | [Read Paper](https://arxiv.org/abs/2605.06667v1) |
+| 💼 **Lead** | **Huscarl**: No description provided. | [Visit Site](https://www.huscarl.io/) |
+
