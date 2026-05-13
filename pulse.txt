@@ -410,3 +410,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction**: Recent event-based image reconstruction methods predominantly rely on Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) to process complementary event information. However, these architectures face fundamental limitations: CNNs often fail to capture global feature correlations, whereas ViTs incur quadratic computational complexity (e.g., $O(n^2)$), hindering their application in high-resolution scenarios. To address these bottle... | [Read Paper](https://arxiv.org/abs/2605.08073v1) |
 | 💼 **Lead** | **Huscarl**: No description provided. | [Visit Site](https://www.huscarl.io/) |
 
+
+### ⚡ Pulse Log: 2026-05-13 09:39 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **openinterpreter/open-interpreter**: A natural language interface for computers... | [View Repo](https://github.com/openinterpreter/open-interpreter) |
+| 🧠 **Research** | **AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward**: In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabilities without an additional cold-start stage. Our approach unlocks the model's intrinsic potential to perform advanced reasoning tasks: Reasoning Text-to-Image Generation, where the model actively infers implicit user intents, and Self-Reflective Refi... | [Read Paper](https://arxiv.org/abs/2605.12495v1) |
+| 💼 **Lead** | **HeyClicky**: No description provided. | [Visit Site](https://heyclicky.com/) |
+
