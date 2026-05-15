@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-05-15 09:42 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **sherlock-project/sherlock**: Hunt down social media accounts by username across social networks... | [View Repo](https://github.com/sherlock-project/sherlock) |
+| 🧠 **Research** | **EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation**: Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long sequences. Existing evaluations typically use independently generated prompt sets with limited entity coverage and simple consistency metrics, making standardized comparison difficult. We introduce EntityBench, a benchmark of 140 episodes (2,491 shots) de... | [Read Paper](https://arxiv.org/abs/2605.15199v1) |
+| 💼 **Lead** | **Rote**: No description provided. | [Visit Site](https://tryrote.com/) |
+
+
 ### ⚡ Pulse Log: 2026-05-13 09:39 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **openinterpreter/open-interpreter**: A natural language interface for computers... | [View Repo](https://github.com/openinterpreter/open-interpreter) |
 | 🧠 **Research** | **AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward**: In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabilities without an additional cold-start stage. Our approach unlocks the model's intrinsic potential to perform advanced reasoning tasks: Reasoning Text-to-Image Generation, where the model actively infers implicit user intents, and Self-Reflective Refi... | [Read Paper](https://arxiv.org/abs/2605.12495v1) |
 | 💼 **Lead** | **HeyClicky**: No description provided. | [Visit Site](https://heyclicky.com/) |
+
 
 
 ### ⚡ Pulse Log: 2026-05-11 10:33 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
 | 🧠 **Research** | **Safety and accuracy follow different scaling laws in clinical large language models**: Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. This assumption is incomplete in medicine, where a few confident, high-risk, or evidence-contradicting errors can matter more than average benchmark performance. We introduce SaFE-Scale, a framework for measuring how clinical LLM safety changes across m... | [Read Paper](https://arxiv.org/abs/2605.04039v1) |
 | 💼 **Lead** | **Huscarl**: No description provided. | [Visit Site](https://www.huscarl.io/) |
-
-
-
-### ⚡ Pulse Log: 2026-05-04 09:13 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **openinterpreter/open-interpreter**: A natural language interface for computers... | [View Repo](https://github.com/openinterpreter/open-interpreter) |
-| 🧠 **Research** | **Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs**: While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a "Visual Signal Dilution" phenomenon, where the accumulation of textual history expands the attention partition function, causing visual attention to decay inversely with generated sequence length. To counteract this, we propose Persistent Visual Memory (PVM), a lightweight learnable module designed to ensure sustained, on-... | [Read Paper](https://arxiv.org/abs/2605.00814v1) |
-| 💼 **Lead** | **Martini**: No description provided. | [Visit Site](https://martini.film) |
 
 <!-- PULSE_END -->
 
