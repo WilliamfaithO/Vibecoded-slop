@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-05-16 08:45 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **sherlock-project/sherlock**: Hunt down social media accounts by username across social networks... | [View Repo](https://github.com/sherlock-project/sherlock) |
+| 🧠 **Research** | **EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation**: Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long sequences. Existing evaluations typically use independently generated prompt sets with limited entity coverage and simple consistency metrics, making standardized comparison difficult. We introduce EntityBench, a benchmark of 140 episodes (2,491 shots) de... | [Read Paper](https://arxiv.org/abs/2605.15199v1) |
+| 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
+
+
 ### ⚡ Pulse Log: 2026-05-15 09:42 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **sherlock-project/sherlock**: Hunt down social media accounts by username across social networks... | [View Repo](https://github.com/sherlock-project/sherlock) |
 | 🧠 **Research** | **EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation**: Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long sequences. Existing evaluations typically use independently generated prompt sets with limited entity coverage and simple consistency metrics, making standardized comparison difficult. We introduce EntityBench, a benchmark of 140 episodes (2,491 shots) de... | [Read Paper](https://arxiv.org/abs/2605.15199v1) |
 | 💼 **Lead** | **Rote**: No description provided. | [Visit Site](https://tryrote.com/) |
+
 
 
 ### ⚡ Pulse Log: 2026-05-13 09:39 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **openinterpreter/open-interpreter**: A natural language interface for computers... | [View Repo](https://github.com/openinterpreter/open-interpreter) |
 | 🧠 **Research** | **ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**: For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a new scene and enables per-frame control of intrinsic and extrinsic camera parameters. ActCam builds on any pretrained image-to-video diffusion model that a... | [Read Paper](https://arxiv.org/abs/2605.06667v1) |
-| 💼 **Lead** | **Huscarl**: No description provided. | [Visit Site](https://www.huscarl.io/) |
-
-
-
-### ⚡ Pulse Log: 2026-05-06 09:19 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
-| 🧠 **Research** | **Safety and accuracy follow different scaling laws in clinical large language models**: Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. This assumption is incomplete in medicine, where a few confident, high-risk, or evidence-contradicting errors can matter more than average benchmark performance. We introduce SaFE-Scale, a framework for measuring how clinical LLM safety changes across m... | [Read Paper](https://arxiv.org/abs/2605.04039v1) |
 | 💼 **Lead** | **Huscarl**: No description provided. | [Visit Site](https://www.huscarl.io/) |
 
 <!-- PULSE_END -->

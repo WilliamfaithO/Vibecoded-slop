@@ -426,3 +426,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation**: Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long sequences. Existing evaluations typically use independently generated prompt sets with limited entity coverage and simple consistency metrics, making standardized comparison difficult. We introduce EntityBench, a benchmark of 140 episodes (2,491 shots) de... | [Read Paper](https://arxiv.org/abs/2605.15199v1) |
 | 💼 **Lead** | **Rote**: No description provided. | [Visit Site](https://tryrote.com/) |
 
+
+### ⚡ Pulse Log: 2026-05-16 08:45 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **sherlock-project/sherlock**: Hunt down social media accounts by username across social networks... | [View Repo](https://github.com/sherlock-project/sherlock) |
+| 🧠 **Research** | **EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation**: Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long sequences. Existing evaluations typically use independently generated prompt sets with limited entity coverage and simple consistency metrics, making standardized comparison difficult. We introduce EntityBench, a benchmark of 140 episodes (2,491 shots) de... | [Read Paper](https://arxiv.org/abs/2605.15199v1) |
+| 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
+
