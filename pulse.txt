@@ -450,3 +450,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **Atoms of Thought: Universal EEG Representation Learning with Microstates**: Learning universal representations from electroencephalogram (EEG) signals is a cutting-edge approach in the field of neuroinformatics and brain-computer interfaces (BCIs). Conventionally, EEG is treated as a multivariate temporal signal, where time- or frequency-domain features are extracted for representation learning. This paper investigates a simple yet effective EEG representation, i.e., microstates. Microstates represent the building blocks... | [Read Paper](https://arxiv.org/abs/2605.20182v1) |
 | 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
 
+
+### ⚡ Pulse Log: 2026-05-21 10:36 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **keras-team/keras**: Deep Learning for humans... | [View Repo](https://github.com/keras-team/keras) |
+| 🧠 **Research** | **Variance Reduction for Expectations with Diffusion Teachers**: Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are Monte Carlo (MC) expectations over noise levels and Gaussian noise samples; their estimator variance dominates compute cost because each draw requires expensive upstream work (rendering, simulation, encoding). We introduce CARV, a compute-aware varia... | [Read Paper](https://arxiv.org/abs/2605.21489v1) |
+| 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
+

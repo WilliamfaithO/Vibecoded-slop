@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-05-21 10:36 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **keras-team/keras**: Deep Learning for humans... | [View Repo](https://github.com/keras-team/keras) |
+| 🧠 **Research** | **Variance Reduction for Expectations with Diffusion Teachers**: Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are Monte Carlo (MC) expectations over noise levels and Gaussian noise samples; their estimator variance dominates compute cost because each draw requires expensive upstream work (rendering, simulation, encoding). We introduce CARV, a compute-aware varia... | [Read Paper](https://arxiv.org/abs/2605.21489v1) |
+| 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
+
+
 ### ⚡ Pulse Log: 2026-05-20 10:21 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **opendatalab/MinerU**: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic... | [View Repo](https://github.com/opendatalab/MinerU) |
 | 🧠 **Research** | **Atoms of Thought: Universal EEG Representation Learning with Microstates**: Learning universal representations from electroencephalogram (EEG) signals is a cutting-edge approach in the field of neuroinformatics and brain-computer interfaces (BCIs). Conventionally, EEG is treated as a multivariate temporal signal, where time- or frequency-domain features are extracted for representation learning. This paper investigates a simple yet effective EEG representation, i.e., microstates. Microstates represent the building blocks... | [Read Paper](https://arxiv.org/abs/2605.20182v1) |
 | 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
+
 
 
 ### ⚡ Pulse Log: 2026-05-19 10:34 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **sherlock-project/sherlock**: Hunt down social media accounts by username across social networks... | [View Repo](https://github.com/sherlock-project/sherlock) |
 | 🧠 **Research** | **EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction**: Recent event-based image reconstruction methods predominantly rely on Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) to process complementary event information. However, these architectures face fundamental limitations: CNNs often fail to capture global feature correlations, whereas ViTs incur quadratic computational complexity (e.g., $O(n^2)$), hindering their application in high-resolution scenarios. To address these bottle... | [Read Paper](https://arxiv.org/abs/2605.08073v1) |
-| 💼 **Lead** | **Huscarl**: No description provided. | [Visit Site](https://www.huscarl.io/) |
-
-
-
-### ⚡ Pulse Log: 2026-05-10 08:49 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
-| 🧠 **Research** | **ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**: For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a new scene and enables per-frame control of intrinsic and extrinsic camera parameters. ActCam builds on any pretrained image-to-video diffusion model that a... | [Read Paper](https://arxiv.org/abs/2605.06667v1) |
 | 💼 **Lead** | **Huscarl**: No description provided. | [Visit Site](https://www.huscarl.io/) |
 
 <!-- PULSE_END -->
