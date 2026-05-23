@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-05-23 08:59 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **sherlock-project/sherlock**: Hunt down social media accounts by username across social networks... | [View Repo](https://github.com/sherlock-project/sherlock) |
+| 🧠 **Research** | **Vector Policy Optimization: Training for Diversity Improves Test-Time Search**: Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific reward functions. Unfortunately, the standard paradigm of LLM post-training optimizes a pre-specified scalar reward, often leading current LLMs to produce low-entropy response distributions and thus to struggle at displaying the diversity that infere... | [Read Paper](https://arxiv.org/abs/2605.22817v1) |
+| 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
+
+
 ### ⚡ Pulse Log: 2026-05-21 10:36 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **keras-team/keras**: Deep Learning for humans... | [View Repo](https://github.com/keras-team/keras) |
 | 🧠 **Research** | **Variance Reduction for Expectations with Diffusion Teachers**: Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are Monte Carlo (MC) expectations over noise levels and Gaussian noise samples; their estimator variance dominates compute cost because each draw requires expensive upstream work (rendering, simulation, encoding). We introduce CARV, a compute-aware varia... | [Read Paper](https://arxiv.org/abs/2605.21489v1) |
 | 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
+
 
 
 ### ⚡ Pulse Log: 2026-05-20 10:21 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | **openinterpreter/open-interpreter**: A natural language interface for computers... | [View Repo](https://github.com/openinterpreter/open-interpreter) |
 | 🧠 **Research** | **AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward**: In this paper, we propose AlphaGRPO, a novel framework that applies Group Relative Policy Optimization (GRPO) to AR-Diffusion Unified Multimodal Models (UMMs) to enhance multimodal generation capabilities without an additional cold-start stage. Our approach unlocks the model's intrinsic potential to perform advanced reasoning tasks: Reasoning Text-to-Image Generation, where the model actively infers implicit user intents, and Self-Reflective Refi... | [Read Paper](https://arxiv.org/abs/2605.12495v1) |
 | 💼 **Lead** | **HeyClicky**: No description provided. | [Visit Site](https://heyclicky.com/) |
-
-
-
-### ⚡ Pulse Log: 2026-05-11 10:33 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **sherlock-project/sherlock**: Hunt down social media accounts by username across social networks... | [View Repo](https://github.com/sherlock-project/sherlock) |
-| 🧠 **Research** | **EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction**: Recent event-based image reconstruction methods predominantly rely on Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs) to process complementary event information. However, these architectures face fundamental limitations: CNNs often fail to capture global feature correlations, whereas ViTs incur quadratic computational complexity (e.g., $O(n^2)$), hindering their application in high-resolution scenarios. To address these bottle... | [Read Paper](https://arxiv.org/abs/2605.08073v1) |
-| 💼 **Lead** | **Huscarl**: No description provided. | [Visit Site](https://www.huscarl.io/) |
 
 <!-- PULSE_END -->
 
