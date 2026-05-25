@@ -474,3 +474,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **Vector Policy Optimization: Training for Diversity Improves Test-Time Search**: Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific reward functions. Unfortunately, the standard paradigm of LLM post-training optimizes a pre-specified scalar reward, often leading current LLMs to produce low-entropy response distributions and thus to struggle at displaying the diversity that infere... | [Read Paper](https://arxiv.org/abs/2605.22817v1) |
 | 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
 
+
+### ⚡ Pulse Log: 2026-05-25 11:06 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **keras-team/keras**: Deep Learning for humans... | [View Repo](https://github.com/keras-team/keras) |
+| 🧠 **Research** | **SkillOpt: Executive Strategy for Self-Evolving Agent Skills**: Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback. We argue the skill should instead be trained as the external state of a frozen agent, with the same discipline that makes weight-space optimization reproducible. SkillOpt is, to our knowledge, the... | [Read Paper](https://arxiv.org/abs/2605.23904v1) |
+| 💼 **Lead** | **Codag**: No description provided. | [Visit Site](https://codag.ai/) |
+
