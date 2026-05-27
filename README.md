@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-05-27 10:52 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **localstack/localstack**: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline... | [View Repo](https://github.com/localstack/localstack) |
+| 🧠 **Research** | **Algorithmic Monocultures in Hiring**: Many employers screen job applicants with algorithms built by the same few algorithm vendors. We hypothesize that algorithmic monoculture leads to the same individuals and members of the same racial groups facing rejection. We acquire and analyze a novel dataset of 3 million applicants submitting 4 million applications where all the applications are screened by algorithms built by the same vendor. We find clear racial disparities in applicant out... | [Read Paper](https://arxiv.org/abs/2605.27371v1) |
+| 💼 **Lead** | **Codag**: No description provided. | [Visit Site](https://codag.ai/) |
+
+
 ### ⚡ Pulse Log: 2026-05-25 11:06 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **keras-team/keras**: Deep Learning for humans... | [View Repo](https://github.com/keras-team/keras) |
 | 🧠 **Research** | **SkillOpt: Executive Strategy for Self-Evolving Agent Skills**: Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback. We argue the skill should instead be trained as the external state of a frozen agent, with the same discipline that makes weight-space optimization reproducible. SkillOpt is, to our knowledge, the... | [Read Paper](https://arxiv.org/abs/2605.23904v1) |
 | 💼 **Lead** | **Codag**: No description provided. | [Visit Site](https://codag.ai/) |
+
 
 
 ### ⚡ Pulse Log: 2026-05-24 09:17 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
 | 🧠 **Research** | **DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention**: Current hierarchical attention methods, such as NSA and InfLLMv2, select the top-k relevant key-value (KV) blocks based on coarse attention scores and subsequently apply fine-grained softmax attention on the selected tokens. However, the top-k operation assumes the number of relevant tokens for any query is fixed and it precludes the gradient flow between the sparse and dense stages. In this work, we propose DashAttention (Differentiable and Adap... | [Read Paper](https://arxiv.org/abs/2605.18753v1) |
-| 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
-
-
-
-### ⚡ Pulse Log: 2026-05-16 08:45 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **sherlock-project/sherlock**: Hunt down social media accounts by username across social networks... | [View Repo](https://github.com/sherlock-project/sherlock) |
-| 🧠 **Research** | **EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation**: Multi-shot video generation extends single-shot generation to coherent visual narratives, yet maintaining consistent characters, objects, and locations across shots remains a challenge over long sequences. Existing evaluations typically use independently generated prompt sets with limited entity coverage and simple consistency metrics, making standardized comparison difficult. We introduce EntityBench, a benchmark of 140 episodes (2,491 shots) de... | [Read Paper](https://arxiv.org/abs/2605.15199v1) |
 | 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
 
 <!-- PULSE_END -->
