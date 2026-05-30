@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-05-30 09:11 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **unslothai/unsloth**: Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt... | [View Repo](https://github.com/unslothai/unsloth) |
+| 🧠 **Research** | **Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**: Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 sessions to build CLAX-PT, a differentiable one-loop perturbation theory module in JAX. We documented and classified 15 supervision events by intervention level.   The agent resolved ten autonomously by iterating against oracle tests. Two more by the ... | [Read Paper](https://arxiv.org/abs/2605.30353v1) |
+| 💼 **Lead** | **Codag**: No description provided. | [Visit Site](https://codag.ai/) |
+
+
 ### ⚡ Pulse Log: 2026-05-27 10:52 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **localstack/localstack**: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline... | [View Repo](https://github.com/localstack/localstack) |
 | 🧠 **Research** | **Algorithmic Monocultures in Hiring**: Many employers screen job applicants with algorithms built by the same few algorithm vendors. We hypothesize that algorithmic monoculture leads to the same individuals and members of the same racial groups facing rejection. We acquire and analyze a novel dataset of 3 million applicants submitting 4 million applications where all the applications are screened by algorithms built by the same vendor. We find clear racial disparities in applicant out... | [Read Paper](https://arxiv.org/abs/2605.27371v1) |
 | 💼 **Lead** | **Codag**: No description provided. | [Visit Site](https://codag.ai/) |
+
 
 
 ### ⚡ Pulse Log: 2026-05-25 11:06 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **opendatalab/MinerU**: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic... | [View Repo](https://github.com/opendatalab/MinerU) |
 | 🧠 **Research** | **Atoms of Thought: Universal EEG Representation Learning with Microstates**: Learning universal representations from electroencephalogram (EEG) signals is a cutting-edge approach in the field of neuroinformatics and brain-computer interfaces (BCIs). Conventionally, EEG is treated as a multivariate temporal signal, where time- or frequency-domain features are extracted for representation learning. This paper investigates a simple yet effective EEG representation, i.e., microstates. Microstates represent the building blocks... | [Read Paper](https://arxiv.org/abs/2605.20182v1) |
-| 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
-
-
-
-### ⚡ Pulse Log: 2026-05-19 10:34 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
-| 🧠 **Research** | **DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention**: Current hierarchical attention methods, such as NSA and InfLLMv2, select the top-k relevant key-value (KV) blocks based on coarse attention scores and subsequently apply fine-grained softmax attention on the selected tokens. However, the top-k operation assumes the number of relevant tokens for any query is fixed and it precludes the gradient flow between the sparse and dense stages. In this work, we propose DashAttention (Differentiable and Adap... | [Read Paper](https://arxiv.org/abs/2605.18753v1) |
 | 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
 
 <!-- PULSE_END -->
