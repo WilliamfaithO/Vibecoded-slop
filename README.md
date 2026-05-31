@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-05-31 09:45 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**: Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 sessions to build CLAX-PT, a differentiable one-loop perturbation theory module in JAX. We documented and classified 15 supervision events by intervention level.   The agent resolved ten autonomously by iterating against oracle tests. Two more by the ... | [Read Paper](https://arxiv.org/abs/2605.30353v1) |
+| 💼 **Lead** | **Codag**: No description provided. | [Visit Site](https://codag.ai/) |
+
+
 ### ⚡ Pulse Log: 2026-05-30 09:11 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **unslothai/unsloth**: Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt... | [View Repo](https://github.com/unslothai/unsloth) |
 | 🧠 **Research** | **Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**: Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 sessions to build CLAX-PT, a differentiable one-loop perturbation theory module in JAX. We documented and classified 15 supervision events by intervention level.   The agent resolved ten autonomously by iterating against oracle tests. Two more by the ... | [Read Paper](https://arxiv.org/abs/2605.30353v1) |
 | 💼 **Lead** | **Codag**: No description provided. | [Visit Site](https://codag.ai/) |
+
 
 
 ### ⚡ Pulse Log: 2026-05-27 10:52 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **keras-team/keras**: Deep Learning for humans... | [View Repo](https://github.com/keras-team/keras) |
 | 🧠 **Research** | **Variance Reduction for Expectations with Diffusion Teachers**: Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are Monte Carlo (MC) expectations over noise levels and Gaussian noise samples; their estimator variance dominates compute cost because each draw requires expensive upstream work (rendering, simulation, encoding). We introduce CARV, a compute-aware varia... | [Read Paper](https://arxiv.org/abs/2605.21489v1) |
-| 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
-
-
-
-### ⚡ Pulse Log: 2026-05-20 10:21 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **opendatalab/MinerU**: Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic... | [View Repo](https://github.com/opendatalab/MinerU) |
-| 🧠 **Research** | **Atoms of Thought: Universal EEG Representation Learning with Microstates**: Learning universal representations from electroencephalogram (EEG) signals is a cutting-edge approach in the field of neuroinformatics and brain-computer interfaces (BCIs). Conventionally, EEG is treated as a multivariate temporal signal, where time- or frequency-domain features are extracted for representation learning. This paper investigates a simple yet effective EEG representation, i.e., microstates. Microstates represent the building blocks... | [Read Paper](https://arxiv.org/abs/2605.20182v1) |
 | 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
 
 <!-- PULSE_END -->
