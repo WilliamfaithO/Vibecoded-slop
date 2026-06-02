@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-06-02 11:14 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **unslothai/unsloth**: Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt... | [View Repo](https://github.com/unslothai/unsloth) |
+| 🧠 **Research** | **Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling**: Recent multimodal large language models have demonstrated strong reasoning ability, yet their reliability as automated evaluators remains limited by a critical weakness: when visual evidence conflicts with textual cues, MLLM judges tend to reward plausible narratives over perceptually correct answers. We identify and systematically analyze this phenomenon, which we term Perceptual Judgment Bias. Through controlled visual perturbations, existing m... | [Read Paper](https://arxiv.org/abs/2606.02578v1) |
+| 💼 **Lead** | **Codag**: No description provided. | [Visit Site](https://codag.ai/) |
+
+
 ### ⚡ Pulse Log: 2026-05-31 09:45 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
 | 🧠 **Research** | **Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software**: Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 sessions to build CLAX-PT, a differentiable one-loop perturbation theory module in JAX. We documented and classified 15 supervision events by intervention level.   The agent resolved ten autonomously by iterating against oracle tests. Two more by the ... | [Read Paper](https://arxiv.org/abs/2605.30353v1) |
 | 💼 **Lead** | **Codag**: No description provided. | [Visit Site](https://codag.ai/) |
+
 
 
 ### ⚡ Pulse Log: 2026-05-30 09:11 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **sherlock-project/sherlock**: Hunt down social media accounts by username across social networks... | [View Repo](https://github.com/sherlock-project/sherlock) |
 | 🧠 **Research** | **Vector Policy Optimization: Training for Diversity Improves Test-Time Search**: Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific reward functions. Unfortunately, the standard paradigm of LLM post-training optimizes a pre-specified scalar reward, often leading current LLMs to produce low-entropy response distributions and thus to struggle at displaying the diversity that infere... | [Read Paper](https://arxiv.org/abs/2605.22817v1) |
-| 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
-
-
-
-### ⚡ Pulse Log: 2026-05-21 10:36 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **keras-team/keras**: Deep Learning for humans... | [View Repo](https://github.com/keras-team/keras) |
-| 🧠 **Research** | **Variance Reduction for Expectations with Diffusion Teachers**: Pretrained diffusion models serve as frozen teachers feeding downstream pipelines such as text-to-3D, single-step distillation, and data attribution. The teacher gradients these pipelines consume are Monte Carlo (MC) expectations over noise levels and Gaussian noise samples; their estimator variance dominates compute cost because each draw requires expensive upstream work (rendering, simulation, encoding). We introduce CARV, a compute-aware varia... | [Read Paper](https://arxiv.org/abs/2605.21489v1) |
 | 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
 
 <!-- PULSE_END -->
