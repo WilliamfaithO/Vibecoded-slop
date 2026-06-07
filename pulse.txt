@@ -522,3 +522,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**: For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial references that planners struggle to synthesize from task semantics. We instead propose a compact, explicit interface that is intuitive, general, modular, and expressive enough for diverse manipulation skills. To... | [Read Paper](https://arxiv.org/abs/2606.06493v1) |
 | 💼 **Lead** | **Care GP**: No description provided. | [Visit Site](https://caregp.com.au/) |
 
+
+### ⚡ Pulse Log: 2026-06-07 09:57 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **unslothai/unsloth**: Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt... | [View Repo](https://github.com/unslothai/unsloth) |
+| 🧠 **Research** | **HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**: For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial references that planners struggle to synthesize from task semantics. We instead propose a compact, explicit interface that is intuitive, general, modular, and expressive enough for diverse manipulation skills. To... | [Read Paper](https://arxiv.org/abs/2606.06493v1) |
+| 💼 **Lead** | **Care GP**: No description provided. | [Visit Site](https://caregp.com.au/) |
+

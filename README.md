@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-06-07 09:57 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **unslothai/unsloth**: Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt... | [View Repo](https://github.com/unslothai/unsloth) |
+| 🧠 **Research** | **HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**: For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial references that planners struggle to synthesize from task semantics. We instead propose a compact, explicit interface that is intuitive, general, modular, and expressive enough for diverse manipulation skills. To... | [Read Paper](https://arxiv.org/abs/2606.06493v1) |
+| 💼 **Lead** | **Care GP**: No description provided. | [Visit Site](https://caregp.com.au/) |
+
+
 ### ⚡ Pulse Log: 2026-06-05 10:42 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
 | 🧠 **Research** | **HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**: For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial references that planners struggle to synthesize from task semantics. We instead propose a compact, explicit interface that is intuitive, general, modular, and expressive enough for diverse manipulation skills. To... | [Read Paper](https://arxiv.org/abs/2606.06493v1) |
 | 💼 **Lead** | **Care GP**: No description provided. | [Visit Site](https://caregp.com.au/) |
+
 
 
 ### ⚡ Pulse Log: 2026-06-02 11:14 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | **keras-team/keras**: Deep Learning for humans... | [View Repo](https://github.com/keras-team/keras) |
 | 🧠 **Research** | **SkillOpt: Executive Strategy for Self-Evolving Agent Skills**: Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback. We argue the skill should instead be trained as the external state of a frozen agent, with the same discipline that makes weight-space optimization reproducible. SkillOpt is, to our knowledge, the... | [Read Paper](https://arxiv.org/abs/2605.23904v1) |
 | 💼 **Lead** | **Codag**: No description provided. | [Visit Site](https://codag.ai/) |
-
-
-
-### ⚡ Pulse Log: 2026-05-24 09:17 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
-| 🧠 **Research** | **Vector Policy Optimization: Training for Diversity Improves Test-Time Search**: Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific reward functions. Unfortunately, the standard paradigm of LLM post-training optimizes a pre-specified scalar reward, often leading current LLMs to produce low-entropy response distributions and thus to struggle at displaying the diversity that infere... | [Read Paper](https://arxiv.org/abs/2605.22817v1) |
-| 💼 **Lead** | **GUILD**: No description provided. | [Visit Site](https://www.guildai.co) |
 
 <!-- PULSE_END -->
 
