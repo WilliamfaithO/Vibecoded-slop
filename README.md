@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-06-08 11:52 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **unslothai/unsloth**: Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt... | [View Repo](https://github.com/unslothai/unsloth) |
+| 🧠 **Research** | **How reliable are LLMs when it comes to playing dice?**: We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a set of standard exercises and a set of counterintuitive exercises, designed to trigger heuristic reasoning, and evaluated 8 state-of-the-art models, each tested with and without Chain-of-Thought prompting. Models achieve an average accuracy of 0.96 on... | [Read Paper](https://arxiv.org/abs/2606.07515v1) |
+| 💼 **Lead** | **Care GP**: No description provided. | [Visit Site](https://caregp.com.au/) |
+
+
 ### ⚡ Pulse Log: 2026-06-07 09:57 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **unslothai/unsloth**: Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt... | [View Repo](https://github.com/unslothai/unsloth) |
 | 🧠 **Research** | **HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers**: For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typically demand dense kinematic or spatial references that planners struggle to synthesize from task semantics. We instead propose a compact, explicit interface that is intuitive, general, modular, and expressive enough for diverse manipulation skills. To... | [Read Paper](https://arxiv.org/abs/2606.06493v1) |
 | 💼 **Lead** | **Care GP**: No description provided. | [Visit Site](https://caregp.com.au/) |
+
 
 
 ### ⚡ Pulse Log: 2026-06-05 10:42 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **localstack/localstack**: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline... | [View Repo](https://github.com/localstack/localstack) |
 | 🧠 **Research** | **Algorithmic Monocultures in Hiring**: Many employers screen job applicants with algorithms built by the same few algorithm vendors. We hypothesize that algorithmic monoculture leads to the same individuals and members of the same racial groups facing rejection. We acquire and analyze a novel dataset of 3 million applicants submitting 4 million applications where all the applications are screened by algorithms built by the same vendor. We find clear racial disparities in applicant out... | [Read Paper](https://arxiv.org/abs/2605.27371v1) |
-| 💼 **Lead** | **Codag**: No description provided. | [Visit Site](https://codag.ai/) |
-
-
-
-### ⚡ Pulse Log: 2026-05-25 11:06 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **keras-team/keras**: Deep Learning for humans... | [View Repo](https://github.com/keras-team/keras) |
-| 🧠 **Research** | **SkillOpt: Executive Strategy for Self-Evolving Agent Skills**: Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reliably improves over its starting point under feedback. We argue the skill should instead be trained as the external state of a frozen agent, with the same discipline that makes weight-space optimization reproducible. SkillOpt is, to our knowledge, the... | [Read Paper](https://arxiv.org/abs/2605.23904v1) |
 | 💼 **Lead** | **Codag**: No description provided. | [Visit Site](https://codag.ai/) |
 
 <!-- PULSE_END -->
