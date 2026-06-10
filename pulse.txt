@@ -546,3 +546,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics**: Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, focus on single-agent Solo play, and lack unified protocols for evaluating heterogeneous agent classes (commercial VLMs, open-weight VLMs, and specialized game policies) on the same footing. We address these gaps with OmniGameArena, a real-time bench... | [Read Paper](https://arxiv.org/abs/2606.09826v1) |
 | 💼 **Lead** | **Care GP**: No description provided. | [Visit Site](https://caregp.com.au/) |
 
+
+### ⚡ Pulse Log: 2026-06-10 10:52 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
+| 🧠 **Research** | **A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**: Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. Strictly fitting toward this one-hot target may be suboptimal, especially when the pretrained model encodes a rich knowledge prior. In this work, we reinterpret SFT as target distribution design: instead of studying only the loss objective, we analyze ... | [Read Paper](https://arxiv.org/abs/2606.11189v1) |
+| 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
+
