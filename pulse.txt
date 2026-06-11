@@ -554,3 +554,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design**: Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. Strictly fitting toward this one-hot target may be suboptimal, especially when the pretrained model encodes a rich knowledge prior. In this work, we reinterpret SFT as target distribution design: instead of studying only the loss objective, we analyze ... | [Read Paper](https://arxiv.org/abs/2606.11189v1) |
 | 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
 
+
+### ⚡ Pulse Log: 2026-06-11 11:19 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **home-assistant/core**: :house_with_garden: Open source home automation that puts local control and privacy first.... | [View Repo](https://github.com/home-assistant/core) |
+| 🧠 **Research** | **Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models**: Vision-language models (VLMs) project images into hundreds to thousands of visual tokens, making decoder inference expensive in both attention computation and KV-cache memory. Existing visual-token reduction methods largely follow a rank-and-remove paradigm: they score visual tokens, keep a compact subset, and permanently discard the rest. We show that this irreversible action is fragile because visual-token importance changes across decoder dept... | [Read Paper](https://arxiv.org/abs/2606.12412v1) |
+| 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
+
