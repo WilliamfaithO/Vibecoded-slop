@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-06-15 13:09 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **django/django**: The Web framework for perfectionists with deadlines.... | [View Repo](https://github.com/django/django) |
+| 🧠 **Research** | **ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning**: Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but often ignore where hallucinations originate within the reasoning process. We find that hallucination sources vary across samples: errors may arise from visual misrecognition, incorrect medical knowledge recall, or flawed reasoning integration. To en... | [Read Paper](https://arxiv.org/abs/2606.14697v1) |
+| 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
+
+
 ### ⚡ Pulse Log: 2026-06-14 10:21 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
 | 🧠 **Research** | **Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning**: Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly suited for complex reasoning tasks: a semantically similar problem may demand an entirely different solution strategy, while a superficially different problem may share the same underlying reasoning pattern. We propose Retrieval-Augmented Reinforcemen... | [Read Paper](https://arxiv.org/abs/2606.13680v1) |
 | 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
+
 
 
 ### ⚡ Pulse Log: 2026-06-13 09:54 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **unslothai/unsloth**: Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt... | [View Repo](https://github.com/unslothai/unsloth) |
 | 🧠 **Research** | **OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics**: Vision-language model (VLM) agents are increasingly deployed in interactive game environments. Yet game benchmarks for VLM agents typically report a single first-attempt score per (agent, game) pair, focus on single-agent Solo play, and lack unified protocols for evaluating heterogeneous agent classes (commercial VLMs, open-weight VLMs, and specialized game policies) on the same footing. We address these gaps with OmniGameArena, a real-time bench... | [Read Paper](https://arxiv.org/abs/2606.09826v1) |
-| 💼 **Lead** | **Care GP**: No description provided. | [Visit Site](https://caregp.com.au/) |
-
-
-
-### ⚡ Pulse Log: 2026-06-08 11:52 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **unslothai/unsloth**: Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt... | [View Repo](https://github.com/unslothai/unsloth) |
-| 🧠 **Research** | **How reliable are LLMs when it comes to playing dice?**: We investigate the probabilistic reasoning capabilities of large language models through a controlled benchmarking study on discrete probability problems. We constructed two datasets, respectively a set of standard exercises and a set of counterintuitive exercises, designed to trigger heuristic reasoning, and evaluated 8 state-of-the-art models, each tested with and without Chain-of-Thought prompting. Models achieve an average accuracy of 0.96 on... | [Read Paper](https://arxiv.org/abs/2606.07515v1) |
 | 💼 **Lead** | **Care GP**: No description provided. | [Visit Site](https://caregp.com.au/) |
 
 <!-- PULSE_END -->
