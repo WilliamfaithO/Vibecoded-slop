@@ -602,3 +602,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers**: Oppenheim and Lim (1981) showed that natural images stay recognizable when reconstructed from their Fourier phase alone, while the magnitude carries little of their identity. We ask whether trained image classifiers reproduce this asymmetry inside their hidden layers, and we test it causally: given two images, we transplant the phase of one onto the magnitude of the other at a chosen layer and record which image the prediction follows. In PRISM2D... | [Read Paper](https://arxiv.org/abs/2606.17037v1) |
 | 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
 
+
+### ⚡ Pulse Log: 2026-06-17 11:43 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **shareAI-lab/learn-claude-code**: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1... | [View Repo](https://github.com/shareAI-lab/learn-claude-code) |
+| 🧠 **Research** | **Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement**: Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a generator-verifier framework for generalist robot policies for inference-time policy steering and self-improvement. We use a pre-trained generalist robot policy as a ``generator'' and pair it with a gradient-free ``visual verifier'' that evaluates actio... | [Read Paper](https://arxiv.org/abs/2606.18247v1) |
+| 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
+
