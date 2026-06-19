@@ -618,3 +618,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning**: Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on passive data collection and suffer from poor sample efficiency, especially during the early stages of learning. We introduce a model-based approach that actively directs exploration by jointly reasoning over uncertainties in the reward, dynamics, and v... | [Read Paper](https://arxiv.org/abs/2606.19328v1) |
 | 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
 
+
+### ⚡ Pulse Log: 2026-06-19 11:16 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | **django/django**: The Web framework for perfectionists with deadlines.... | [View Repo](https://github.com/django/django) |
+| 🧠 **Research** | **How Transparent is DiffusionGemma?**: LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space; does this make its reasoning less transparent? We study this question by decomposing transparency into two components: variable transparency, whether we understand intermediate snapshot... | [Read Paper](https://arxiv.org/abs/2606.20560v1) |
+| 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
+
