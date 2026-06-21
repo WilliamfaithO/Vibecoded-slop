@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-06-21 10:26 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **How Transparent is DiffusionGemma?**: LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space; does this make its reasoning less transparent? We study this question by decomposing transparency into two components: variable transparency, whether we understand intermediate snapshot... | [Read Paper](https://arxiv.org/abs/2606.20560v1) |
+| 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
+
+
 ### ⚡ Pulse Log: 2026-06-20 09:58 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
 | 🧠 **Research** | **How Transparent is DiffusionGemma?**: LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space; does this make its reasoning less transparent? We study this question by decomposing transparency into two components: variable transparency, whether we understand intermediate snapshot... | [Read Paper](https://arxiv.org/abs/2606.20560v1) |
 | 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
+
 
 
 ### ⚡ Pulse Log: 2026-06-19 11:16 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **django/django**: The Web framework for perfectionists with deadlines.... | [View Repo](https://github.com/django/django) |
 | 🧠 **Research** | **ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning**: Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but often ignore where hallucinations originate within the reasoning process. We find that hallucination sources vary across samples: errors may arise from visual misrecognition, incorrect medical knowledge recall, or flawed reasoning integration. To en... | [Read Paper](https://arxiv.org/abs/2606.14697v1) |
-| 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
-
-
-
-### ⚡ Pulse Log: 2026-06-14 10:21 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **public-apis/public-apis**: A collective list of free APIs... | [View Repo](https://github.com/public-apis/public-apis) |
-| 🧠 **Research** | **Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning**: Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly suited for complex reasoning tasks: a semantically similar problem may demand an entirely different solution strategy, while a superficially different problem may share the same underlying reasoning pattern. We propose Retrieval-Augmented Reinforcemen... | [Read Paper](https://arxiv.org/abs/2606.13680v1) |
 | 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
 
 <!-- PULSE_END -->
