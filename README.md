@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-06-24 10:17 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **InSight: Self-Guided Skill Acquisition via Steerable VLAs**: Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., "move gripper to the bowl", "lift upward", "pour the bottle"). InSight consists of two primary stages: (1) an automated segmentation pipeline that partit... | [Read Paper](https://arxiv.org/abs/2606.24884v1) |
+| 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
+
+
 ### ⚡ Pulse Log: 2026-06-23 10:32 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation**: Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freedom (DoF) end effectors that behave like an open-close grasp primitive. We introduce CoorDex, a learning pipeline that converts high-dimensional body and dexterous hand control into coordinated latent residual control, enabling high-DoF dexterous loco... | [Read Paper](https://arxiv.org/abs/2606.23680v1) |
 | 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
+
 
 
 ### ⚡ Pulse Log: 2026-06-22 12:45 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **django/django**: The Web framework for perfectionists with deadlines.... | [View Repo](https://github.com/django/django) |
 | 🧠 **Research** | **UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning**: Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on passive data collection and suffer from poor sample efficiency, especially during the early stages of learning. We introduce a model-based approach that actively directs exploration by jointly reasoning over uncertainties in the reward, dynamics, and v... | [Read Paper](https://arxiv.org/abs/2606.19328v1) |
-| 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
-
-
-
-### ⚡ Pulse Log: 2026-06-17 11:43 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **shareAI-lab/learn-claude-code**: Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1... | [View Repo](https://github.com/shareAI-lab/learn-claude-code) |
-| 🧠 **Research** | **Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement**: Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a generator-verifier framework for generalist robot policies for inference-time policy steering and self-improvement. We use a pre-trained generalist robot policy as a ``generator'' and pair it with a gradient-free ``visual verifier'' that evaluates actio... | [Read Paper](https://arxiv.org/abs/2606.18247v1) |
 | 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
 
 <!-- PULSE_END -->

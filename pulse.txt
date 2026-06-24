@@ -658,3 +658,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation**: Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freedom (DoF) end effectors that behave like an open-close grasp primitive. We introduce CoorDex, a learning pipeline that converts high-dimensional body and dexterous hand control into coordinated latent residual control, enabling high-DoF dexterous loco... | [Read Paper](https://arxiv.org/abs/2606.23680v1) |
 | 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
 
+
+### ⚡ Pulse Log: 2026-06-24 10:17 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **InSight: Self-Guided Skill Acquisition via Steerable VLAs**: Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., "move gripper to the bowl", "lift upward", "pour the bottle"). InSight consists of two primary stages: (1) an automated segmentation pipeline that partit... | [Read Paper](https://arxiv.org/abs/2606.24884v1) |
+| 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
+
