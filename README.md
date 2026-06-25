@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-06-25 10:12 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Learning Action Priors for Cross-embodiment Robot Manipulation**: Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leaves the action module to learn physical motion almost from scratch. As a result, the policy lacks an explicit motion prior, forcing early optimization to simultaneously discover temporal action dynamics and cross-... | [Read Paper](https://arxiv.org/abs/2606.26095v1) |
+| 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
+
+
 ### ⚡ Pulse Log: 2026-06-24 10:17 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **InSight: Self-Guided Skill Acquisition via Steerable VLAs**: Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., "move gripper to the bowl", "lift upward", "pour the bottle"). InSight consists of two primary stages: (1) an automated segmentation pipeline that partit... | [Read Paper](https://arxiv.org/abs/2606.24884v1) |
 | 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
+
 
 
 ### ⚡ Pulse Log: 2026-06-23 10:32 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | **django/django**: The Web framework for perfectionists with deadlines.... | [View Repo](https://github.com/django/django) |
 | 🧠 **Research** | **How Transparent is DiffusionGemma?**: LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space; does this make its reasoning less transparent? We study this question by decomposing transparency into two components: variable transparency, whether we understand intermediate snapshot... | [Read Paper](https://arxiv.org/abs/2606.20560v1) |
-| 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
-
-
-
-### ⚡ Pulse Log: 2026-06-18 11:05 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | **django/django**: The Web framework for perfectionists with deadlines.... | [View Repo](https://github.com/django/django) |
-| 🧠 **Research** | **UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning**: Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on passive data collection and suffer from poor sample efficiency, especially during the early stages of learning. We introduce a model-based approach that actively directs exploration by jointly reasoning over uncertainties in the reward, dynamics, and v... | [Read Paper](https://arxiv.org/abs/2606.19328v1) |
 | 💼 **Lead** | **Hop Aero**: No description provided. | [Visit Site](https://hop-aero.com) |
 
 <!-- PULSE_END -->
