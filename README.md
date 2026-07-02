@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-07-02 09:56 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Measuring the Gap Between Human and LLM Research Ideas**: LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation framework for ideation from high-quality human research papers. For each paper, we reverse-engineer a small set of closely related prior works that lik... | [Read Paper](https://arxiv.org/abs/2607.01233v1) |
+| 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
+
+
 ### ⚡ Pulse Log: 2026-07-01 10:38 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**: When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs as supervision. Surprisingly, we find that LMs trained on fixed counterfactual explanations derived from earlier checkpoints of themselves, or even fro... | [Read Paper](https://arxiv.org/abs/2606.32038v1) |
 | 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
+
 
 
 ### ⚡ Pulse Log: 2026-06-30 10:29 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Autoregressive Boltzmann Generators**: Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allow rapid generation of uncorrelated equilibrium samples by combining a generative model with exact likelihoods and an importance sampling correction. However, modern BGs predominantly rely on normalizing flows (NFs), which either suffer from limited e... | [Read Paper](https://arxiv.org/abs/2606.27361v1) |
-| 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
-
-
-
-### ⚡ Pulse Log: 2026-06-25 10:12 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Learning Action Priors for Cross-embodiment Robot Manipulation**: Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leaves the action module to learn physical motion almost from scratch. As a result, the policy lacks an explicit motion prior, forcing early optimization to simultaneously discover temporal action dynamics and cross-... | [Read Paper](https://arxiv.org/abs/2606.26095v1) |
 | 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
 
 <!-- PULSE_END -->

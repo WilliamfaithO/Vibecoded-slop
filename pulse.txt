@@ -722,3 +722,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**: When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs as supervision. Surprisingly, we find that LMs trained on fixed counterfactual explanations derived from earlier checkpoints of themselves, or even fro... | [Read Paper](https://arxiv.org/abs/2606.32038v1) |
 | 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
 
+
+### ⚡ Pulse Log: 2026-07-02 09:56 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Measuring the Gap Between Human and LLM Research Ideas**: LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation framework for ideation from high-quality human research papers. For each paper, we reverse-engineer a small set of closely related prior works that lik... | [Read Paper](https://arxiv.org/abs/2607.01233v1) |
+| 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
+
