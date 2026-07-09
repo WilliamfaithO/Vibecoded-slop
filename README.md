@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-07-09 10:19 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning**: Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relationships requires interpreting structural evidence through scientific principles and physical constraints, from stereochemistry and bonding to symmetry, energetics and periodic order. However, applying artificia... | [Read Paper](https://arxiv.org/abs/2607.07708v1) |
+| 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
+
+
 ### ⚡ Pulse Log: 2026-07-07 10:21 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model**: Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Language-Action (VLA) policies tolerate such camera variations only when the camera extrinsics are explicitly provided, making them fragile and hard to use especially when view robustness is critical. We argue that the policy should not be told where the... | [Read Paper](https://arxiv.org/abs/2607.05396v1) |
 | 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
+
 
 
 ### ⚡ Pulse Log: 2026-07-06 11:23 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**: When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs as supervision. Surprisingly, we find that LMs trained on fixed counterfactual explanations derived from earlier checkpoints of themselves, or even fro... | [Read Paper](https://arxiv.org/abs/2606.32038v1) |
-| 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
-
-
-
-### ⚡ Pulse Log: 2026-06-30 10:29 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes**: Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, language commands, and robot-compatible kinematic trajectories, yet no existing data source provides this complete tuple at scale. We address this bottleneck by generating vision-language-kinematics (VLK) supervision synthetically in reconstructed scenes.... | [Read Paper](https://arxiv.org/abs/2606.30645v1) |
 | 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
 
 <!-- PULSE_END -->
