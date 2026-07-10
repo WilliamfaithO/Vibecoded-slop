@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-07-10 10:19 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **OpenCoF: Learning to Reason Through Video Generation**: Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known as Chain-of-Frame (CoF) reasoning. However, existing video generators are primarily trained on general video corpora, still lacking diverse supervisi... | [Read Paper](https://arxiv.org/abs/2607.08763v1) |
+| 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
+
+
 ### ⚡ Pulse Log: 2026-07-09 10:19 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning**: Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relationships requires interpreting structural evidence through scientific principles and physical constraints, from stereochemistry and bonding to symmetry, energetics and periodic order. However, applying artificia... | [Read Paper](https://arxiv.org/abs/2607.07708v1) |
 | 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
+
 
 
 ### ⚡ Pulse Log: 2026-07-07 10:21 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Measuring the Gap Between Human and LLM Research Ideas**: LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation framework for ideation from high-quality human research papers. For each paper, we reverse-engineer a small set of closely related prior works that lik... | [Read Paper](https://arxiv.org/abs/2607.01233v1) |
-| 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
-
-
-
-### ⚡ Pulse Log: 2026-07-01 10:38 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision**: When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features of their inputs influenced their behavior, using models' counterfactual behavior on modified inputs as supervision. Surprisingly, we find that LMs trained on fixed counterfactual explanations derived from earlier checkpoints of themselves, or even fro... | [Read Paper](https://arxiv.org/abs/2606.32038v1) |
 | 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
 
 <!-- PULSE_END -->
