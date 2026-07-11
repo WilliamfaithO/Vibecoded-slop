@@ -778,3 +778,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **OpenCoF: Learning to Reason Through Video Generation**: Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known as Chain-of-Frame (CoF) reasoning. However, existing video generators are primarily trained on general video corpora, still lacking diverse supervisi... | [Read Paper](https://arxiv.org/abs/2607.08763v1) |
 | 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
 
+
+### ⚡ Pulse Log: 2026-07-11 08:43 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **OpenCoF: Learning to Reason Through Video Generation**: Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known as Chain-of-Frame (CoF) reasoning. However, existing video generators are primarily trained on general video corpora, still lacking diverse supervisi... | [Read Paper](https://arxiv.org/abs/2607.08763v1) |
+| 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
+

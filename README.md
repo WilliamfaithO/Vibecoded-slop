@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-07-11 08:43 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **OpenCoF: Learning to Reason Through Video Generation**: Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known as Chain-of-Frame (CoF) reasoning. However, existing video generators are primarily trained on general video corpora, still lacking diverse supervisi... | [Read Paper](https://arxiv.org/abs/2607.08763v1) |
+| 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
+
+
 ### ⚡ Pulse Log: 2026-07-10 10:19 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **OpenCoF: Learning to Reason Through Video Generation**: Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known as Chain-of-Frame (CoF) reasoning. However, existing video generators are primarily trained on general video corpora, still lacking diverse supervisi... | [Read Paper](https://arxiv.org/abs/2607.08763v1) |
 | 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
+
 
 
 ### ⚡ Pulse Log: 2026-07-09 10:19 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Distributed Attacks in Persistent-State AI Control**: As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt-injected agent can distribute attacks across pull requests (PRs) and time its payload for the PR with the best natural cover. To study the resulting dynamics, we introduce Iterative VibeCoding, a setting for AI control, the study of safely deploying... | [Read Paper](https://arxiv.org/abs/2607.02514v1) |
-| 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
-
-
-
-### ⚡ Pulse Log: 2026-07-02 09:56 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Measuring the Gap Between Human and LLM Research Ideas**: LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-generated ideas from human researchers? To characterize this gap, we build a large-scale evaluation framework for ideation from high-quality human research papers. For each paper, we reverse-engineer a small set of closely related prior works that lik... | [Read Paper](https://arxiv.org/abs/2607.01233v1) |
 | 💼 **Lead** | **Simantic**: No description provided. | [Visit Site](https://simantic.dev) |
 
 <!-- PULSE_END -->
