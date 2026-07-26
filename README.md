@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-07-26 09:08 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **3D-Aware VLMs with Implicit and Explicit Geometries**: Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial awareness of VLMs by equipping them with both implicit and explicit 3D geometries learned from RGB videos. Our VLM-IE3D introduces Implicit Geometry Tokens... | [Read Paper](https://arxiv.org/abs/2607.21595v1) |
+| 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
+
+
 ### ⚡ Pulse Log: 2026-07-24 09:16 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **3D-Aware VLMs with Implicit and Explicit Geometries**: Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present VLM-IE3D, a unified framework that enhances the 3D spatial awareness of VLMs by equipping them with both implicit and explicit 3D geometries learned from RGB videos. Our VLM-IE3D introduces Implicit Geometry Tokens... | [Read Paper](https://arxiv.org/abs/2607.21595v1) |
 | 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
+
 
 
 ### ⚡ Pulse Log: 2026-07-23 09:21 UTC
@@ -67,15 +76,6 @@ The Heartbeat Engine automatically updates the log every morning.
 
 
 ### ⚡ Pulse Log: 2026-07-19 09:02 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **RoboTTT: Context Scaling for Robot Policies**: Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three orders of magnitude beyond state-of-the-art policies, without growing inference latency. At this context length, we unlock new robot capabilities: one-shot in-context imitation from human video demonstrations, on... | [Read Paper](https://arxiv.org/abs/2607.15275v1) |
-| 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
-
-
-
-### ⚡ Pulse Log: 2026-07-18 08:45 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
