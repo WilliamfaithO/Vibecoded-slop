@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-07-30 09:26 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Can AI agents conduct open-ended AI research? Early evidence from two case studies**: Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on narrow, verifiable tasks, which excludes open-ended research, or submit AI-generated papers to blind peer review, which is overstretched, stochastic, and suffers from poor review quality. We introduce a third way to measure progress towards AI R\&D auto... | [Read Paper](https://arxiv.org/abs/2607.27191v1) |
+| 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
+
+
 ### ⚡ Pulse Log: 2026-07-29 09:33 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Pass the Baton: Trajectory-Relayed On-Policy Distillation**: On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the stude... | [Read Paper](https://arxiv.org/abs/2607.26057v1) |
 | 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
+
 
 
 ### ⚡ Pulse Log: 2026-07-28 09:32 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data**: In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predicate vocabulary, argument structure, and trusted evidence are supplied by a Knowledge Graph (KG), or rule definitions. Classical neuro-symbolic pipelines have a discrete interface between perception and deduction. We present a neuro-soft-symbolic architecture for differentiable deductive reasoning ove... | [Read Paper](https://arxiv.org/abs/2607.20402v1) |
-| 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
-
-
-
-### ⚡ Pulse Log: 2026-07-22 09:23 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning**: Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify a critical failure mode in this regime: \emph{repetitive copying}, where models extensively copy text from the input into their reasoning traces rather than productively solving the problem. We show that this behavior is pervasive... | [Read Paper](https://arxiv.org/abs/2607.19345v1) |
 | 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
 
 <!-- PULSE_END -->
