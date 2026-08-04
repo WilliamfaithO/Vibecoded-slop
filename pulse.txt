@@ -962,3 +962,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction**: Enterprise workflows increasingly rely on agents for \emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evidence as grounding metadata. We present ExtractBench, a benchmark for schema-guided extraction and, to our knowledge, the first to score value accuracy, record completeness at scale, grounding, and measured cost together. The evaluatio... | [Read Paper](https://arxiv.org/abs/2607.29677v1) |
 | 💼 **Lead** | **Lambda Robotics**: No description provided. | [Visit Site](https://lambdarobotics.ai) |
 
+
+### ⚡ Pulse Log: 2026-08-04 09:35 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework**: Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large language models rather than building their own. This gap points to a need for engineering-grounded AI (EGAI), in which AI workflows follo... | [Read Paper](https://arxiv.org/abs/2608.02599v1) |
+| 💼 **Lead** | **Qokedas**: No description provided. | [Visit Site](https://qokedas.com/) |
+
