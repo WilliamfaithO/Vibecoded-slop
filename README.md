@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-08-05 09:31 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning**: Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, limiting fine-grained credit assignment in long-horizon TIR scenarios. On-policy self-distillation offers denser signals through teacher branches with privileged context, but existing approaches typically derive such context from ground-truth answers o... | [Read Paper](https://arxiv.org/abs/2608.04007v1) |
+| 💼 **Lead** | **Qokedas**: No description provided. | [Visit Site](https://qokedas.com/) |
+
+
 ### ⚡ Pulse Log: 2026-08-04 09:35 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework**: Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large language models rather than building their own. This gap points to a need for engineering-grounded AI (EGAI), in which AI workflows follo... | [Read Paper](https://arxiv.org/abs/2608.02599v1) |
 | 💼 **Lead** | **Qokedas**: No description provided. | [Visit Site](https://qokedas.com/) |
+
 
 
 ### ⚡ Pulse Log: 2026-08-03 10:36 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Can AI agents conduct open-ended AI research? Early evidence from two case studies**: Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on narrow, verifiable tasks, which excludes open-ended research, or submit AI-generated papers to blind peer review, which is overstretched, stochastic, and suffers from poor review quality. We introduce a third way to measure progress towards AI R\&D auto... | [Read Paper](https://arxiv.org/abs/2607.27191v1) |
-| 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
-
-
-
-### ⚡ Pulse Log: 2026-07-29 09:33 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Pass the Baton: Trajectory-Relayed On-Policy Distillation**: On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the stude... | [Read Paper](https://arxiv.org/abs/2607.26057v1) |
 | 💼 **Lead** | **Conifer**: No description provided. | [Visit Site](https://www.conifer.build) |
 
 <!-- PULSE_END -->
