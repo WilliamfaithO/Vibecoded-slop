@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-08-07 08:09 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Learning When to Trust via Selective Context Preference Optimization**: Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is worth trusting. We recast the problem as selective trust and introduce MIST, a human-annotated benchmark that renders each reasoning item under four mat... | [Read Paper](https://arxiv.org/abs/2608.06377v1) |
+| 💼 **Lead** | **Forward**: No description provided. | [Visit Site](https://www.useforward.co/) |
+
+
 ### ⚡ Pulse Log: 2026-08-06 09:35 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning**: Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified objective. We present Argus, a persistent, self-evolving runtime in which Manager, Planner, Engineer, and Reviewer execute bounded missions over durable project state. Argus separates stable user intent from operational objectives, constraints, and verific... | [Read Paper](https://arxiv.org/abs/2608.05144v1) |
 | 💼 **Lead** | **Forward**: No description provided. | [Visit Site](https://www.useforward.co/) |
+
 
 
 ### ⚡ Pulse Log: 2026-08-05 09:31 UTC
@@ -67,15 +76,6 @@ The Heartbeat Engine automatically updates the log every morning.
 
 
 ### ⚡ Pulse Log: 2026-08-01 09:01 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Learning to Trace Seiberg Dualities**: Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two systems are dual, even when all of the "rules of the game" are well-known. Said differently, when confronted with two systems, how can one efficiently establish that they are in fact dual? In this paper we use machine learning methods to... | [Read Paper](https://arxiv.org/abs/2607.28628v1) |
-| 💼 **Lead** | **Lambda Robotics**: No description provided. | [Visit Site](https://lambdarobotics.ai) |
-
-
-
-### ⚡ Pulse Log: 2026-07-31 09:38 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
