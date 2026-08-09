@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-08-09 07:49 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Learning When to Trust via Selective Context Preference Optimization**: Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is worth trusting. We recast the problem as selective trust and introduce MIST, a human-annotated benchmark that renders each reasoning item under four mat... | [Read Paper](https://arxiv.org/abs/2608.06377v1) |
+| 💼 **Lead** | **Forward**: No description provided. | [Visit Site](https://www.useforward.co/) |
+
+
 ### ⚡ Pulse Log: 2026-08-08 07:43 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Learning When to Trust via Selective Context Preference Optimization**: Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is worth trusting. We recast the problem as selective trust and introduce MIST, a human-annotated benchmark that renders each reasoning item under four mat... | [Read Paper](https://arxiv.org/abs/2608.06377v1) |
 | 💼 **Lead** | **Forward**: No description provided. | [Visit Site](https://www.useforward.co/) |
+
 
 
 ### ⚡ Pulse Log: 2026-08-07 08:09 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction**: Enterprise workflows increasingly rely on agents for \emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evidence as grounding metadata. We present ExtractBench, a benchmark for schema-guided extraction and, to our knowledge, the first to score value accuracy, record completeness at scale, grounding, and measured cost together. The evaluatio... | [Read Paper](https://arxiv.org/abs/2607.29677v1) |
-| 💼 **Lead** | **Lambda Robotics**: No description provided. | [Visit Site](https://lambdarobotics.ai) |
-
-
-
-### ⚡ Pulse Log: 2026-08-02 09:05 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Learning to Trace Seiberg Dualities**: Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two systems are dual, even when all of the "rules of the game" are well-known. Said differently, when confronted with two systems, how can one efficiently establish that they are in fact dual? In this paper we use machine learning methods to... | [Read Paper](https://arxiv.org/abs/2607.28628v1) |
 | 💼 **Lead** | **Lambda Robotics**: No description provided. | [Visit Site](https://lambdarobotics.ai) |
 
 <!-- PULSE_END -->
