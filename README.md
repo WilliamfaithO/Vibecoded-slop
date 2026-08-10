@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-08-10 08:23 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity**: While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity (e.g., story generation) as well as those that require it implicitly, e.g., reinforcement learning (RL). We instead propose CreativeInstruct, a scalable instruction-tuning method that teaches LLMs to balance creative, base-model-like generations with... | [Read Paper](https://arxiv.org/abs/2608.07460v1) |
+| 💼 **Lead** | **Forward**: No description provided. | [Visit Site](https://www.useforward.co/) |
+
+
 ### ⚡ Pulse Log: 2026-08-09 07:49 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Learning When to Trust via Selective Context Preference Optimization**: Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is worth trusting. We recast the problem as selective trust and introduce MIST, a human-annotated benchmark that renders each reasoning item under four mat... | [Read Paper](https://arxiv.org/abs/2608.06377v1) |
 | 💼 **Lead** | **Forward**: No description provided. | [Visit Site](https://www.useforward.co/) |
+
 
 
 ### ⚡ Pulse Log: 2026-08-08 07:43 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework**: Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large language models rather than building their own. This gap points to a need for engineering-grounded AI (EGAI), in which AI workflows follo... | [Read Paper](https://arxiv.org/abs/2608.02599v1) |
 | 💼 **Lead** | **Qokedas**: No description provided. | [Visit Site](https://qokedas.com/) |
-
-
-
-### ⚡ Pulse Log: 2026-08-03 10:36 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction**: Enterprise workflows increasingly rely on agents for \emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evidence as grounding metadata. We present ExtractBench, a benchmark for schema-guided extraction and, to our knowledge, the first to score value accuracy, record completeness at scale, grounding, and measured cost together. The evaluatio... | [Read Paper](https://arxiv.org/abs/2607.29677v1) |
-| 💼 **Lead** | **Lambda Robotics**: No description provided. | [Visit Site](https://lambdarobotics.ai) |
 
 <!-- PULSE_END -->
 
