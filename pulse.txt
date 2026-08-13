@@ -1018,3 +1018,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity**: While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity (e.g., story generation) as well as those that require it implicitly, e.g., reinforcement learning (RL). We instead propose CreativeInstruct, a scalable instruction-tuning method that teaches LLMs to balance creative, base-model-like generations with... | [Read Paper](https://arxiv.org/abs/2608.07460v1) |
 | 💼 **Lead** | **Forward**: No description provided. | [Visit Site](https://www.useforward.co/) |
 
+
+### ⚡ Pulse Log: 2026-08-13 08:15 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**: Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability. Although recent VLA models offer a promising perception-to-action paradigm, adapting them to aerial navigation remains challenging due to limited historical context, short planning horizons, and unreliable implicit termination. To address th... | [Read Paper](https://arxiv.org/abs/2608.12308v1) |
+| 💼 **Lead** | **Vorelios**: No description provided. | [Visit Site](https://vorelios.com) |
+

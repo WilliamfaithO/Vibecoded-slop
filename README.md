@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-08-13 08:15 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**: Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability. Although recent VLA models offer a promising perception-to-action paradigm, adapting them to aerial navigation remains challenging due to limited historical context, short planning horizons, and unreliable implicit termination. To address th... | [Read Paper](https://arxiv.org/abs/2608.12308v1) |
+| 💼 **Lead** | **Vorelios**: No description provided. | [Visit Site](https://vorelios.com) |
+
+
 ### ⚡ Pulse Log: 2026-08-10 08:23 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity**: While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity (e.g., story generation) as well as those that require it implicitly, e.g., reinforcement learning (RL). We instead propose CreativeInstruct, a scalable instruction-tuning method that teaches LLMs to balance creative, base-model-like generations with... | [Read Paper](https://arxiv.org/abs/2608.07460v1) |
 | 💼 **Lead** | **Forward**: No description provided. | [Visit Site](https://www.useforward.co/) |
+
 
 
 ### ⚡ Pulse Log: 2026-08-09 07:49 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning**: Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, limiting fine-grained credit assignment in long-horizon TIR scenarios. On-policy self-distillation offers denser signals through teacher branches with privileged context, but existing approaches typically derive such context from ground-truth answers o... | [Read Paper](https://arxiv.org/abs/2608.04007v1) |
-| 💼 **Lead** | **Qokedas**: No description provided. | [Visit Site](https://qokedas.com/) |
-
-
-
-### ⚡ Pulse Log: 2026-08-04 09:35 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework**: Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applications and offer little reusable material for newcomers or interdisciplinary learners, who increasingly rely on large language models rather than building their own. This gap points to a need for engineering-grounded AI (EGAI), in which AI workflows follo... | [Read Paper](https://arxiv.org/abs/2608.02599v1) |
 | 💼 **Lead** | **Qokedas**: No description provided. | [Visit Site](https://qokedas.com/) |
 
 <!-- PULSE_END -->
