@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-08-14 08:10 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design**: Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to drive recursive self-improvement, existing paradigms remain static and fall short of this capability. In this paper, we present Auto... | [Read Paper](https://arxiv.org/abs/2608.13560v1) |
+| 💼 **Lead** | **Vorelios**: No description provided. | [Visit Site](https://vorelios.com) |
+
+
 ### ⚡ Pulse Log: 2026-08-13 08:15 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**: Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability. Although recent VLA models offer a promising perception-to-action paradigm, adapting them to aerial navigation remains challenging due to limited historical context, short planning horizons, and unreliable implicit termination. To address th... | [Read Paper](https://arxiv.org/abs/2608.12308v1) |
 | 💼 **Lead** | **Vorelios**: No description provided. | [Visit Site](https://vorelios.com) |
+
 
 
 ### ⚡ Pulse Log: 2026-08-10 08:23 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning**: Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified objective. We present Argus, a persistent, self-evolving runtime in which Manager, Planner, Engineer, and Reviewer execute bounded missions over durable project state. Argus separates stable user intent from operational objectives, constraints, and verific... | [Read Paper](https://arxiv.org/abs/2608.05144v1) |
 | 💼 **Lead** | **Forward**: No description provided. | [Visit Site](https://www.useforward.co/) |
-
-
-
-### ⚡ Pulse Log: 2026-08-05 09:31 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning**: Tool-Integrated Reasoning (TIR) enables LLMs to solve complex tasks through iterative tool interactions. However, existing reinforcement learning methods often rely on trajectory-level supervision, limiting fine-grained credit assignment in long-horizon TIR scenarios. On-policy self-distillation offers denser signals through teacher branches with privileged context, but existing approaches typically derive such context from ground-truth answers o... | [Read Paper](https://arxiv.org/abs/2608.04007v1) |
-| 💼 **Lead** | **Qokedas**: No description provided. | [Visit Site](https://qokedas.com/) |
 
 <!-- PULSE_END -->
 
