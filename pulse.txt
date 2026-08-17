@@ -1050,3 +1050,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design**: Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to drive recursive self-improvement, existing paradigms remain static and fall short of this capability. In this paper, we present Auto... | [Read Paper](https://arxiv.org/abs/2608.13560v1) |
 | 💼 **Lead** | **Vorelios**: No description provided. | [Visit Site](https://vorelios.com) |
 
+
+### ⚡ Pulse Log: 2026-08-17 07:46 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils**: Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contemporary and prehistoric groups, and the uncertainty introduced by image degradation. Traditional morphometric methods suffer from high structural overlap across sexes, poor cross-population generalizability, and subjective feature engineering. This study... | [Read Paper](https://arxiv.org/abs/2608.14539v1) |
+| 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
+
