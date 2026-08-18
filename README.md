@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-08-18 07:32 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory**: Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently constrains the next. A promising recipe freezes the VLA and puts an LLM agent in charge: it plans in language, moves in free space with analytic primitives, invokes the VLA... | [Read Paper](https://arxiv.org/abs/2608.16889v1) |
+| 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
+
+
 ### ⚡ Pulse Log: 2026-08-17 07:46 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils**: Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contemporary and prehistoric groups, and the uncertainty introduced by image degradation. Traditional morphometric methods suffer from high structural overlap across sexes, poor cross-population generalizability, and subjective feature engineering. This study... | [Read Paper](https://arxiv.org/abs/2608.14539v1) |
 | 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
+
 
 
 ### ⚡ Pulse Log: 2026-08-16 07:25 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity**: While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity (e.g., story generation) as well as those that require it implicitly, e.g., reinforcement learning (RL). We instead propose CreativeInstruct, a scalable instruction-tuning method that teaches LLMs to balance creative, base-model-like generations with... | [Read Paper](https://arxiv.org/abs/2608.07460v1) |
-| 💼 **Lead** | **Forward**: No description provided. | [Visit Site](https://www.useforward.co/) |
-
-
-
-### ⚡ Pulse Log: 2026-08-09 07:49 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Learning When to Trust via Selective Context Preference Optimization**: Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is worth trusting. We recast the problem as selective trust and introduce MIST, a human-annotated benchmark that renders each reasoning item under four mat... | [Read Paper](https://arxiv.org/abs/2608.06377v1) |
 | 💼 **Lead** | **Forward**: No description provided. | [Visit Site](https://www.useforward.co/) |
 
 <!-- PULSE_END -->
