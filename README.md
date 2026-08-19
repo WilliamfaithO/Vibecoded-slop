@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-08-19 07:32 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**: Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A central challenge is not only how to curate each task-specific corpus, but also how to organize heterogeneous supervision according to the dependencies among generative capabilities. We present a \textbf{capability-driven data infrastructure} that coupl... | [Read Paper](https://arxiv.org/abs/2608.18076v1) |
+| 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
+
+
 ### ⚡ Pulse Log: 2026-08-18 07:32 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory**: Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently constrains the next. A promising recipe freezes the VLA and puts an LLM agent in charge: it plans in language, moves in free space with analytic primitives, invokes the VLA... | [Read Paper](https://arxiv.org/abs/2608.16889v1) |
 | 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
+
 
 
 ### ⚡ Pulse Log: 2026-08-17 07:46 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**: Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability. Although recent VLA models offer a promising perception-to-action paradigm, adapting them to aerial navigation remains challenging due to limited historical context, short planning horizons, and unreliable implicit termination. To address th... | [Read Paper](https://arxiv.org/abs/2608.12308v1) |
 | 💼 **Lead** | **Vorelios**: No description provided. | [Visit Site](https://vorelios.com) |
-
-
-
-### ⚡ Pulse Log: 2026-08-10 08:23 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity**: While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity (e.g., story generation) as well as those that require it implicitly, e.g., reinforcement learning (RL). We instead propose CreativeInstruct, a scalable instruction-tuning method that teaches LLMs to balance creative, base-model-like generations with... | [Read Paper](https://arxiv.org/abs/2608.07460v1) |
-| 💼 **Lead** | **Forward**: No description provided. | [Visit Site](https://www.useforward.co/) |
 
 <!-- PULSE_END -->
 
