@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-08-20 07:35 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **SPADE: Self-Play in Adaptive Synthetic Executable Environments**: Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, or frozen-verifier) keep the goal distribution fixed as the learner scales. We introduce SPADE (Self-Play in Adaptive Synthetic Executable Environments), a self-play RL framework in which a single LLM plays two roles: an Environment Designer that wri... | [Read Paper](https://arxiv.org/abs/2608.19197v1) |
+| 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
+
+
 ### ⚡ Pulse Log: 2026-08-19 07:32 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation**: Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A central challenge is not only how to curate each task-specific corpus, but also how to organize heterogeneous supervision according to the dependencies among generative capabilities. We present a \textbf{capability-driven data infrastructure} that coupl... | [Read Paper](https://arxiv.org/abs/2608.18076v1) |
 | 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
+
 
 
 ### ⚡ Pulse Log: 2026-08-18 07:32 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design**: Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human design priors and accumulate reusable experience through empirical exploration to drive recursive self-improvement, existing paradigms remain static and fall short of this capability. In this paper, we present Auto... | [Read Paper](https://arxiv.org/abs/2608.13560v1) |
-| 💼 **Lead** | **Vorelios**: No description provided. | [Visit Site](https://vorelios.com) |
-
-
-
-### ⚡ Pulse Log: 2026-08-13 08:15 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation**: Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability. Although recent VLA models offer a promising perception-to-action paradigm, adapting them to aerial navigation remains challenging due to limited historical context, short planning horizons, and unreliable implicit termination. To address th... | [Read Paper](https://arxiv.org/abs/2608.12308v1) |
 | 💼 **Lead** | **Vorelios**: No description provided. | [Visit Site](https://vorelios.com) |
 
 <!-- PULSE_END -->
