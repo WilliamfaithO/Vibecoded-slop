@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-08-24 07:52 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Primal Acceleration of Newton's Method**: We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in terms of the functional residual. To the best of our knowledge, this is the first second-order method for this problem class attaining ... | [Read Paper](https://arxiv.org/abs/2608.21359v1) |
+| 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
+
+
 ### ⚡ Pulse Log: 2026-08-23 07:28 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation**: Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-dependent patient communication, yet existing medical vision-language tasks do not adequately capture these dual requirements. To bridge this gap, we introduce Patient-oriented Medical Report Interpretation (PMRI), a novel open-ended multimodal generation t... | [Read Paper](https://arxiv.org/abs/2608.20331v1) |
 | 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
+
 
 
 ### ⚡ Pulse Log: 2026-08-22 07:25 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory**: Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently constrains the next. A promising recipe freezes the VLA and puts an LLM agent in charge: it plans in language, moves in free space with analytic primitives, invokes the VLA... | [Read Paper](https://arxiv.org/abs/2608.16889v1) |
-| 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
-
-
-
-### ⚡ Pulse Log: 2026-08-17 07:46 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils**: Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contemporary and prehistoric groups, and the uncertainty introduced by image degradation. Traditional morphometric methods suffer from high structural overlap across sexes, poor cross-population generalizability, and subjective feature engineering. This study... | [Read Paper](https://arxiv.org/abs/2608.14539v1) |
 | 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
 
 <!-- PULSE_END -->
