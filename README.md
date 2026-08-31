@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-08-31 14:44 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning**: Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a cable removes the requirement that a motor fit inside the joint it drives, so smaller and cheaper motors suffice, and one motor can drive several joints through a single cable, so fewer motors are needed. They are also harder to learn on than a direct... | [Read Paper](https://arxiv.org/abs/2608.28578v1) |
+| 💼 **Lead** | **Redoubt Insurance**: No description provided. | [Visit Site](https://www.redoubt.agency) |
+
+
 ### ⚡ Pulse Log: 2026-08-30 12:30 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution**: Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill development typically remain scattered across optimization histories, limiting their systematic reuse across iterations. We introduce WikiSkill, a framework th... | [Read Paper](https://arxiv.org/abs/2608.27454v1) |
 | 💼 **Lead** | **Redoubt Insurance**: No description provided. | [Visit Site](https://www.redoubt.agency) |
+
 
 
 ### ⚡ Pulse Log: 2026-08-29 12:55 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **How to Train a Critic Stably and Efficiently**: Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this instability and develop \textbf{Best-Practice Critic Optimization (BPCO)}, a recipe that combines DPPO, value predictions bounded to the... | [Read Paper](https://arxiv.org/abs/2608.23566v1) |
-| 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
-
-
-
-### ⚡ Pulse Log: 2026-08-24 07:52 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Primal Acceleration of Newton's Method**: We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per iteration. With a simple predetermined choice of parameters, it achieves the global convergence rate of $O(1/k^3)$ in terms of the functional residual. To the best of our knowledge, this is the first second-order method for this problem class attaining ... | [Read Paper](https://arxiv.org/abs/2608.21359v1) |
 | 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
 
 <!-- PULSE_END -->
