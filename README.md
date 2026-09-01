@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-09-01 12:17 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies**: Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reactive policy, yet existing protocols discard task semantics, leaving rewards hand-crafted and behavior drifting from what control verified.We introduce Semantically UNified (SUN) Programs, typed executables where geometric and contact relations are defi... | [Read Paper](https://arxiv.org/abs/2608.31167v1) |
+| 💼 **Lead** | **Maritime**: No description provided. | [Visit Site](https://maritime.sh/) |
+
+
 ### ⚡ Pulse Log: 2026-08-31 14:44 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning**: Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a cable removes the requirement that a motor fit inside the joint it drives, so smaller and cheaper motors suffice, and one motor can drive several joints through a single cable, so fewer motors are needed. They are also harder to learn on than a direct... | [Read Paper](https://arxiv.org/abs/2608.28578v1) |
 | 💼 **Lead** | **Redoubt Insurance**: No description provided. | [Visit Site](https://www.redoubt.agency) |
+
 
 
 ### ⚡ Pulse Log: 2026-08-30 12:30 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses**: Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress and guides skill selection from Experiential Memory, grounding skill use in current needs rather than the full history. This coupling also turns exec... | [Read Paper](https://arxiv.org/abs/2608.24876v1) |
-| 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
-
-
-
-### ⚡ Pulse Log: 2026-08-25 07:38 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **How to Train a Critic Stably and Efficiently**: Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this instability and develop \textbf{Best-Practice Critic Optimization (BPCO)}, a recipe that combines DPPO, value predictions bounded to the... | [Read Paper](https://arxiv.org/abs/2608.23566v1) |
 | 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
 
 <!-- PULSE_END -->

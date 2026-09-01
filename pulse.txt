@@ -1170,3 +1170,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning**: Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through a cable removes the requirement that a motor fit inside the joint it drives, so smaller and cheaper motors suffice, and one motor can drive several joints through a single cable, so fewer motors are needed. They are also harder to learn on than a direct... | [Read Paper](https://arxiv.org/abs/2608.28578v1) |
 | 💼 **Lead** | **Redoubt Insurance**: No description provided. | [Visit Site](https://www.redoubt.agency) |
 
+
+### ⚡ Pulse Log: 2026-09-01 12:17 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies**: Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reactive policy, yet existing protocols discard task semantics, leaving rewards hand-crafted and behavior drifting from what control verified.We introduce Semantically UNified (SUN) Programs, typed executables where geometric and contact relations are defi... | [Read Paper](https://arxiv.org/abs/2608.31167v1) |
+| 💼 **Lead** | **Maritime**: No description provided. | [Visit Site](https://maritime.sh/) |
+
