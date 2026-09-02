@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-09-02 11:54 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation**: Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation methods select representative subsets to estimate full-benchmark performance, but are largely result-only: they fit historical pass/fail response matrices or static task semantics, discarding how agents solve problems. We propose PTA-IRT, a Privileged Tra... | [Read Paper](https://arxiv.org/abs/2609.01603v1) |
+| 💼 **Lead** | **Maritime**: No description provided. | [Visit Site](https://maritime.sh/) |
+
+
 ### ⚡ Pulse Log: 2026-09-01 12:17 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies**: Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reactive policy, yet existing protocols discard task semantics, leaving rewards hand-crafted and behavior drifting from what control verified.We introduce Semantically UNified (SUN) Programs, typed executables where geometric and contact relations are defi... | [Read Paper](https://arxiv.org/abs/2608.31167v1) |
 | 💼 **Lead** | **Maritime**: No description provided. | [Visit Site](https://maritime.sh/) |
+
 
 
 ### ⚡ Pulse Log: 2026-08-31 14:44 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**: Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottlenecked by the lack of scalable training tasks, reliable feedback, and controlled comparisons across generative substrates. In this work, we introduce VBVR-Pro, a closed-l... | [Read Paper](https://arxiv.org/abs/2608.26105v1) |
 | 💼 **Lead** | **Redoubt Insurance**: No description provided. | [Visit Site](https://www.redoubt.agency) |
-
-
-
-### ⚡ Pulse Log: 2026-08-26 07:40 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses**: Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress and guides skill selection from Experiential Memory, grounding skill use in current needs rather than the full history. This coupling also turns exec... | [Read Paper](https://arxiv.org/abs/2608.24876v1) |
-| 💼 **Lead** | **antimattr**: No description provided. | [Visit Site](https://antimattr.one/) |
 
 <!-- PULSE_END -->
 
