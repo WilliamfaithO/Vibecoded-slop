@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-09-03 11:52 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Discriminative World Models for Web Agents**: Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state prediction to generate fixed representations like HTML or AXTree snapshots. However, this objective is misaligned with the downstream ranker, which relies on predicted states bein... | [Read Paper](https://arxiv.org/abs/2609.02885v1) |
+| 💼 **Lead** | **Maritime**: No description provided. | [Visit Site](https://maritime.sh/) |
+
+
 ### ⚡ Pulse Log: 2026-09-02 11:54 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation**: Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation methods select representative subsets to estimate full-benchmark performance, but are largely result-only: they fit historical pass/fail response matrices or static task semantics, discarding how agents solve problems. We propose PTA-IRT, a Privileged Tra... | [Read Paper](https://arxiv.org/abs/2609.01603v1) |
 | 💼 **Lead** | **Maritime**: No description provided. | [Visit Site](https://maritime.sh/) |
+
 
 
 ### ⚡ Pulse Log: 2026-09-01 12:17 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution**: Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progressively adapt through interaction. However, the insights that guide skill development typically remain scattered across optimization histories, limiting their systematic reuse across iterations. We introduce WikiSkill, a framework th... | [Read Paper](https://arxiv.org/abs/2608.27454v1) |
-| 💼 **Lead** | **Redoubt Insurance**: No description provided. | [Visit Site](https://www.redoubt.agency) |
-
-
-
-### ⚡ Pulse Log: 2026-08-27 18:01 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning**: Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates for problem solving beyond language. Yet progress remains bottlenecked by the lack of scalable training tasks, reliable feedback, and controlled comparisons across generative substrates. In this work, we introduce VBVR-Pro, a closed-l... | [Read Paper](https://arxiv.org/abs/2608.26105v1) |
 | 💼 **Lead** | **Redoubt Insurance**: No description provided. | [Visit Site](https://www.redoubt.agency) |
 
 <!-- PULSE_END -->
