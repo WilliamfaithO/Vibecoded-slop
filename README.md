@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-09-09 12:05 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model**: We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, including coordinated arm placement, torso adjustment, and gait modulation for collision-free movement through complex 3D spaces. We introduce TANGO, the first whole-body vision-... | [Read Paper](https://arxiv.org/abs/2609.09158v1) |
+| 💼 **Lead** | **Maritime**: No description provided. | [Visit Site](https://maritime.sh/) |
+
+
 ### ⚡ Pulse Log: 2026-09-08 11:55 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction**: Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences control the clarity of AI-generated images and sounds, metaphorically enacting the denoising process that underlies diffusion-based generation. Using the tuning knob, participants switch between three channels featuring AI-generated animals from the ... | [Read Paper](https://arxiv.org/abs/2609.05404v1) |
 | 💼 **Lead** | **Maritime**: No description provided. | [Visit Site](https://maritime.sh/) |
+
 
 
 ### ⚡ Pulse Log: 2026-09-07 13:12 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Discriminative World Models for Web Agents**: Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PRM). These world models are typically trained via supervised next-state prediction to generate fixed representations like HTML or AXTree snapshots. However, this objective is misaligned with the downstream ranker, which relies on predicted states bein... | [Read Paper](https://arxiv.org/abs/2609.02885v1) |
-| 💼 **Lead** | **Maritime**: No description provided. | [Visit Site](https://maritime.sh/) |
-
-
-
-### ⚡ Pulse Log: 2026-09-02 11:54 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation**: Evaluating software engineering agents on realistic benchmarks is costly, since each task may require multi-step code exploration, modification, and test execution. Existing efficient evaluation methods select representative subsets to estimate full-benchmark performance, but are largely result-only: they fit historical pass/fail response matrices or static task semantics, discarding how agents solve problems. We propose PTA-IRT, a Privileged Tra... | [Read Paper](https://arxiv.org/abs/2609.01603v1) |
 | 💼 **Lead** | **Maritime**: No description provided. | [Visit Site](https://maritime.sh/) |
 
 <!-- PULSE_END -->
