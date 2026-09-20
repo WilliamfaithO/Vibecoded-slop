@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-09-20 11:57 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**: Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but col... | [Read Paper](https://arxiv.org/abs/2609.20822v1) |
+| 💼 **Lead** | **DeepMark**: No description provided. | [Visit Site](https://www.deepmark.me) |
+
+
 ### ⚡ Pulse Log: 2026-09-19 11:44 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**: Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but col... | [Read Paper](https://arxiv.org/abs/2609.20822v1) |
 | 💼 **Lead** | **DeepMark**: No description provided. | [Visit Site](https://www.deepmark.me) |
+
 
 
 ### ⚡ Pulse Log: 2026-09-17 12:21 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model**: We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments requires continuous geometry-aware whole-body adaptation, including coordinated arm placement, torso adjustment, and gait modulation for collision-free movement through complex 3D spaces. We introduce TANGO, the first whole-body vision-... | [Read Paper](https://arxiv.org/abs/2609.09158v1) |
-| 💼 **Lead** | **Maritime**: No description provided. | [Visit Site](https://maritime.sh/) |
-
-
-
-### ⚡ Pulse Log: 2026-09-08 11:55 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction**: Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences control the clarity of AI-generated images and sounds, metaphorically enacting the denoising process that underlies diffusion-based generation. Using the tuning knob, participants switch between three channels featuring AI-generated animals from the ... | [Read Paper](https://arxiv.org/abs/2609.05404v1) |
 | 💼 **Lead** | **Maritime**: No description provided. | [Visit Site](https://maritime.sh/) |
 
 <!-- PULSE_END -->
