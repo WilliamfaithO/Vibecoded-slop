@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-09-22 12:16 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay**: Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack language instructions, or rely on high-variance online rollouts. To address these challenges, we introduce GameHorizon, a unified data and evaluation suit... | [Read Paper](https://arxiv.org/abs/2609.25001v1) |
+| 💼 **Lead** | **DeepMark**: No description provided. | [Visit Site](https://www.deepmark.me) |
+
+
 ### ⚡ Pulse Log: 2026-09-21 13:32 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design**: Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an external procedural memory of natural-language skills accumulates and refines reusable design procedure... | [Read Paper](https://arxiv.org/abs/2609.22086v1) |
 | 💼 **Lead** | **DeepMark**: No description provided. | [Visit Site](https://www.deepmark.me) |
+
 
 
 ### ⚡ Pulse Log: 2026-09-20 11:57 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay**: Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, interdependent gather and scatter steps issued through a generic tree interface. On a GPU every kernel finishes in microseconds, so kernel launches and framework dispatch dominate the run time, and prior GPU implementations have lost ... | [Read Paper](https://arxiv.org/abs/2609.11923v1) |
 | 💼 **Lead** | **DeepMark**: No description provided. | [Visit Site](https://www.deepmark.me) |
-
-
-
-### ⚡ Pulse Log: 2026-09-10 12:00 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Show-Harness: Just a VLM Agent Can Play Robots**: Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to "play" robots through a compact semantic interface linking intent to action. Show-Harness exposes discrete semantic action units that VLMs can naturally reason over, while embodiment-specific interpreters deterministically gr... | [Read Paper](https://arxiv.org/abs/2609.10522v1) |
-| 💼 **Lead** | **Maritime**: No description provided. | [Visit Site](https://maritime.sh/) |
 
 <!-- PULSE_END -->
 
