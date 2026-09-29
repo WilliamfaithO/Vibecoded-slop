@@ -1314,3 +1314,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency**: Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by explicitly encouraging shorter reasoning during training, for example through reinforcement learning with length penalties. We show that substantial efficiency gains can instead emerge from a different kind of supervision: \textit{conf... | [Read Paper](https://arxiv.org/abs/2609.31619v1) |
 | 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
 
+
+### ⚡ Pulse Log: 2026-09-29 13:40 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets**: Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intra-species variability. We present FurE, an efficient strand-based animal fur reconstruction method that recovers a per-strand, editable groom by optimizing a root-conditi... | [Read Paper](https://arxiv.org/abs/2609.35770v1) |
+| 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
+
