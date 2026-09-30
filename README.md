@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-09-30 13:14 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Skill-Space Shooting for Autonomous Robot Policy Improvement**: Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic systems offer a way to reduce this reliance on human effort by using foundation models to autonomously compose learned behaviors to complete tasks. Yet c... | [Read Paper](https://arxiv.org/abs/2609.38178v1) |
+| 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
+
+
 ### ⚡ Pulse Log: 2026-09-29 13:40 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets**: Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intra-species variability. We present FurE, an efficient strand-based animal fur reconstruction method that recovers a per-strand, editable groom by optimizing a root-conditi... | [Read Paper](https://arxiv.org/abs/2609.35770v1) |
 | 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
+
 
 
 ### ⚡ Pulse Log: 2026-09-28 14:51 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation**: Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but col... | [Read Paper](https://arxiv.org/abs/2609.20822v1) |
-| 💼 **Lead** | **DeepMark**: No description provided. | [Visit Site](https://www.deepmark.me) |
-
-
-
-### ⚡ Pulse Log: 2026-09-17 12:21 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Objective vs. Search: Decomposing What Makes a Good Tokeniser**: Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down pruning). Existing comparisons confound these axes, making it unclear whether their observed differences stem from what is being optimised vs. how it is being optimised. We dis... | [Read Paper](https://arxiv.org/abs/2609.19145v1) |
 | 💼 **Lead** | **DeepMark**: No description provided. | [Visit Site](https://www.deepmark.me) |
 
 <!-- PULSE_END -->
