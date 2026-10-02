@@ -1338,3 +1338,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **Semifactual Credit-Augmented Policy Optimization**: Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that preserve the underlying problem and its answer. Our analysis reveals substantial variation in token-level sensitivity and shows that suppressing high-drift token candidat... | [Read Paper](https://arxiv.org/abs/2609.40360v1) |
 | 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
 
+
+### ⚡ Pulse Log: 2026-10-02 13:27 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars**: 3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neur... | [Read Paper](https://arxiv.org/abs/2610.02207v1) |
+| 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
+
