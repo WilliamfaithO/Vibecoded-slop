@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-10-05 15:28 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**: This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations. This is not because of a lack of supervisory signal, but rather due to inconspicuous architectural choices: \textit{spatially expressive decoders} that dilute ... | [Read Paper](https://arxiv.org/abs/2610.03717v1) |
+| 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
+
+
 ### ⚡ Pulse Log: 2026-10-04 12:59 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars**: 3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neur... | [Read Paper](https://arxiv.org/abs/2610.02207v1) |
 | 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
+
 
 
 ### ⚡ Pulse Log: 2026-10-02 13:27 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency**: Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by explicitly encouraging shorter reasoning during training, for example through reinforcement learning with length penalties. We show that substantial efficiency gains can instead emerge from a different kind of supervision: \textit{conf... | [Read Paper](https://arxiv.org/abs/2609.31619v1) |
 | 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
-
-
-
-### ⚡ Pulse Log: 2026-09-22 12:16 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay**: Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal horizons. Existing datasets and benchmarks, however, either cover a narrow range of games, lack language instructions, or rely on high-variance online rollouts. To address these challenges, we introduce GameHorizon, a unified data and evaluation suit... | [Read Paper](https://arxiv.org/abs/2609.25001v1) |
-| 💼 **Lead** | **DeepMark**: No description provided. | [Visit Site](https://www.deepmark.me) |
 
 <!-- PULSE_END -->
 
