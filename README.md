@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-10-06 13:50 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline**: Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We formulate aspect-ratio-adaptive flowchart relayout as a distinct task: given a raster flowchart and a target ratio, produce a structurally... | [Read Paper](https://arxiv.org/abs/2610.06852v1) |
+| 💼 **Lead** | **Keres**: No description provided. | [Visit Site](https://www.keresaero.com/) |
+
+
 ### ⚡ Pulse Log: 2026-10-05 15:28 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**: This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representations. Yet, existing encoder-based NVS methods yield poor representations. This is not because of a lack of supervisory signal, but rather due to inconspicuous architectural choices: \textit{spatially expressive decoders} that dilute ... | [Read Paper](https://arxiv.org/abs/2610.03717v1) |
 | 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
+
 
 
 ### ⚡ Pulse Log: 2026-10-04 12:59 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets**: Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intra-species variability. We present FurE, an efficient strand-based animal fur reconstruction method that recovers a per-strand, editable groom by optimizing a root-conditi... | [Read Paper](https://arxiv.org/abs/2609.35770v1) |
-| 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
-
-
-
-### ⚡ Pulse Log: 2026-09-28 14:51 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency**: Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by explicitly encouraging shorter reasoning during training, for example through reinforcement learning with length penalties. We show that substantial efficiency gains can instead emerge from a different kind of supervision: \textit{conf... | [Read Paper](https://arxiv.org/abs/2609.31619v1) |
 | 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
 
 <!-- PULSE_END -->
