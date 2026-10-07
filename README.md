@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-10-07 14:08 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction**: Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction prediction. We introduce 4D-HOF, a feed-forward framework that reconstructs 4D hand-object interactions from coarse but informative estimates produced by vision foundation models. Concretely, we learn a conditional flow matching mo... | [Read Paper](https://arxiv.org/abs/2610.08782v1) |
+| 💼 **Lead** | **Keres**: No description provided. | [Visit Site](https://www.keresaero.com/) |
+
+
 ### ⚡ Pulse Log: 2026-10-06 13:50 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline**: Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We formulate aspect-ratio-adaptive flowchart relayout as a distinct task: given a raster flowchart and a target ratio, produce a structurally... | [Read Paper](https://arxiv.org/abs/2610.06852v1) |
 | 💼 **Lead** | **Keres**: No description provided. | [Visit Site](https://www.keresaero.com/) |
+
 
 
 ### ⚡ Pulse Log: 2026-10-05 15:28 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Skill-Space Shooting for Autonomous Robot Policy Improvement**: Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic systems offer a way to reduce this reliance on human effort by using foundation models to autonomously compose learned behaviors to complete tasks. Yet c... | [Read Paper](https://arxiv.org/abs/2609.38178v1) |
-| 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
-
-
-
-### ⚡ Pulse Log: 2026-09-29 13:40 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets**: Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets. Fur usually covers most of an animal's body, with large inter-species and intra-species variability. We present FurE, an efficient strand-based animal fur reconstruction method that recovers a per-strand, editable groom by optimizing a root-conditi... | [Read Paper](https://arxiv.org/abs/2609.35770v1) |
 | 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
 
 <!-- PULSE_END -->

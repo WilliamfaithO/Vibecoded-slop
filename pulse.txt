@@ -1370,3 +1370,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline**: Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different aspect ratio on the same computational graph, where any silently broken connection misrepresents the method. We formulate aspect-ratio-adaptive flowchart relayout as a distinct task: given a raster flowchart and a target ratio, produce a structurally... | [Read Paper](https://arxiv.org/abs/2610.06852v1) |
 | 💼 **Lead** | **Keres**: No description provided. | [Visit Site](https://www.keresaero.com/) |
 
+
+### ⚡ Pulse Log: 2026-10-07 14:08 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction**: Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction prediction. We introduce 4D-HOF, a feed-forward framework that reconstructs 4D hand-object interactions from coarse but informative estimates produced by vision foundation models. Concretely, we learn a conditional flow matching mo... | [Read Paper](https://arxiv.org/abs/2610.08782v1) |
+| 💼 **Lead** | **Keres**: No description provided. | [Visit Site](https://www.keresaero.com/) |
+
