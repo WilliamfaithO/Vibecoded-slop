@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-10-08 14:18 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos**: As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from egocentric videos, by observing a person's day-to-day activities. We present Ledger, a persistent 3D object memory that combines ob... | [Read Paper](https://arxiv.org/abs/2610.10538v1) |
+| 💼 **Lead** | **Keres**: No description provided. | [Visit Site](https://www.keresaero.com/) |
+
+
 ### ⚡ Pulse Log: 2026-10-07 14:08 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction**: Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction prediction. We introduce 4D-HOF, a feed-forward framework that reconstructs 4D hand-object interactions from coarse but informative estimates produced by vision foundation models. Concretely, we learn a conditional flow matching mo... | [Read Paper](https://arxiv.org/abs/2610.08782v1) |
 | 💼 **Lead** | **Keres**: No description provided. | [Visit Site](https://www.keresaero.com/) |
+
 
 
 ### ⚡ Pulse Log: 2026-10-06 13:50 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Semifactual Credit-Augmented Policy Optimization**: Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that preserve the underlying problem and its answer. Our analysis reveals substantial variation in token-level sensitivity and shows that suppressing high-drift token candidat... | [Read Paper](https://arxiv.org/abs/2609.40360v1) |
-| 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
-
-
-
-### ⚡ Pulse Log: 2026-09-30 13:14 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Skill-Space Shooting for Autonomous Robot Policy Improvement**: Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic systems offer a way to reduce this reliance on human effort by using foundation models to autonomously compose learned behaviors to complete tasks. Yet c... | [Read Paper](https://arxiv.org/abs/2609.38178v1) |
 | 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
 
 <!-- PULSE_END -->
