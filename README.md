@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-10-09 14:03 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **On the estimation and validity of AI time horizons---a statistical look at the METR plot**: METR's 50\% time horizon measures the human completion time of software tasks that an AI solves with 50\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumption that the AI difficulty of a task depends linearly on the log of human time. Our fitted spline can be interpreted as a function that \emph{converts}... | [Read Paper](https://arxiv.org/abs/2610.12466v1) |
+| 💼 **Lead** | **Keres**: No description provided. | [Visit Site](https://www.keresaero.com/) |
+
+
 ### ⚡ Pulse Log: 2026-10-08 14:18 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos**: As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from egocentric videos, by observing a person's day-to-day activities. We present Ledger, a persistent 3D object memory that combines ob... | [Read Paper](https://arxiv.org/abs/2610.10538v1) |
 | 💼 **Lead** | **Keres**: No description provided. | [Visit Site](https://www.keresaero.com/) |
+
 
 
 ### ⚡ Pulse Log: 2026-10-07 14:08 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars**: 3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can be closely approximated by a linear combination of identity-independent blendshapes. Building on this finding, we introduce GALA (Gaussian Animation via Linear Approximation), a distillation method that replaces per-frame heavy neur... | [Read Paper](https://arxiv.org/abs/2610.02207v1) |
-| 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
-
-
-
-### ⚡ Pulse Log: 2026-10-01 14:06 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Semifactual Credit-Augmented Policy Optimization**: Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that preserve the underlying problem and its answer. Our analysis reveals substantial variation in token-level sensitivity and shows that suppressing high-drift token candidat... | [Read Paper](https://arxiv.org/abs/2609.40360v1) |
 | 💼 **Lead** | **Mantle**: No description provided. | [Visit Site]() |
 
 <!-- PULSE_END -->
