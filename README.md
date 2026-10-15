@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-10-15 12:23 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion**: Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to directly modeling the distribution of their learned weights and generating functional networks in weight space. In this work, we investigate whether high-pe... | [Read Paper](https://arxiv.org/abs/2610.20606v1) |
+| 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
+
+
 ### ⚡ Pulse Log: 2026-10-14 12:35 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **ChunkAct: Action Chunking for Agentic Robotics**: Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to new tasks without retraining. This generality comes at a steep price in efficiency. Every primitive requires a round of LLM reasoning over the full interaction history, so the cost of an episode grows with the number of primitive... | [Read Paper](https://arxiv.org/abs/2610.18874v1) |
 | 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
+
 
 
 ### ⚡ Pulse Log: 2026-10-12 16:24 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos**: As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container, even without knowing we would need it later. Here, we study how an embodied assistant can build a similar memory from egocentric videos, by observing a person's day-to-day activities. We present Ledger, a persistent 3D object memory that combines ob... | [Read Paper](https://arxiv.org/abs/2610.10538v1) |
-| 💼 **Lead** | **Keres**: No description provided. | [Visit Site](https://www.keresaero.com/) |
-
-
-
-### ⚡ Pulse Log: 2026-10-07 14:08 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction**: Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction prediction. We introduce 4D-HOF, a feed-forward framework that reconstructs 4D hand-object interactions from coarse but informative estimates produced by vision foundation models. Concretely, we learn a conditional flow matching mo... | [Read Paper](https://arxiv.org/abs/2610.08782v1) |
 | 💼 **Lead** | **Keres**: No description provided. | [Visit Site](https://www.keresaero.com/) |
 
 <!-- PULSE_END -->
