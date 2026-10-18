@@ -1442,3 +1442,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**: Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference satisfaction. We introduce LIBERO-PeRM, a benchmark for preference learning in embodied agents. LIBERO-PeRM studies five questions: 1) how ... | [Read Paper](https://arxiv.org/abs/2610.22372v1) |
 | 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
 
+
+### ⚡ Pulse Log: 2026-10-18 11:54 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**: Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference satisfaction. We introduce LIBERO-PeRM, a benchmark for preference learning in embodied agents. LIBERO-PeRM studies five questions: 1) how ... | [Read Paper](https://arxiv.org/abs/2610.22372v1) |
+| 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
+
