@@ -1458,3 +1458,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory**: Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only modest gains. Such tasks demand grounded perception, external knowledge, and numerical measurements obtained through heterogeneous tools, whose outputs... | [Read Paper](https://arxiv.org/abs/2610.26860v1) |
 | 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
 
+
+### ⚡ Pulse Log: 2026-10-21 12:38 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs**: Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jump as replayable 3D motion placed in the 3D scene. Here we present a model that directly co-generates the video and 3D motion for any supplied rig, along ... | [Read Paper](https://arxiv.org/abs/2610.28632v1) |
+| 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
+
