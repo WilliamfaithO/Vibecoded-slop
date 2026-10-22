@@ -1466,3 +1466,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs**: Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jump as replayable 3D motion placed in the 3D scene. Here we present a model that directly co-generates the video and 3D motion for any supplied rig, along ... | [Read Paper](https://arxiv.org/abs/2610.28632v1) |
 | 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
 
+
+### ⚡ Pulse Log: 2026-10-22 12:43 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation**: Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items within the same sequence vary drastically in how much computation they require. Most converge after shallow processing while a critical minority only stabi... | [Read Paper](https://arxiv.org/abs/2610.30128v1) |
+| 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
+
