@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-10-24 11:47 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning**: Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool after generating only a short prefix, committing further computation only to the surviving candidates. Existing pruning strategies di... | [Read Paper](https://arxiv.org/abs/2610.31667v1) |
+| 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
+
+
 ### ⚡ Pulse Log: 2026-10-23 12:20 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning**: Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool after generating only a short prefix, committing further computation only to the surviving candidates. Existing pruning strategies di... | [Read Paper](https://arxiv.org/abs/2610.31667v1) |
 | 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
+
 
 
 ### ⚡ Pulse Log: 2026-10-22 12:43 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**: Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic manipulation (PeRM) lacks a controlled benchmark for separating task completion from preference satisfaction. We introduce LIBERO-PeRM, a benchmark for preference learning in embodied agents. LIBERO-PeRM studies five questions: 1) how ... | [Read Paper](https://arxiv.org/abs/2610.22372v1) |
-| 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
-
-
-
-### ⚡ Pulse Log: 2026-10-15 12:23 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion**: Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional training procedures, while comparatively little attention has been given to directly modeling the distribution of their learned weights and generating functional networks in weight space. In this work, we investigate whether high-pe... | [Read Paper](https://arxiv.org/abs/2610.20606v1) |
 | 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
 
 <!-- PULSE_END -->
