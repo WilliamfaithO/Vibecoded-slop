@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-10-27 12:54 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Retriever-Free Retrieval: Navigating Documents with Decision Models**: While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to find, even the strongest generator cannot recover. We propose DecisionRAG, which brings the capabilities of pretrained language models to retrieval using decision models that jointly evaluate candidate branches in a single forward p... | [Read Paper](https://arxiv.org/abs/2610.35868v1) |
+| 💼 **Lead** | **Tesser**: No description provided. | [Visit Site](https://tesser.sh/) |
+
+
 ### ⚡ Pulse Log: 2026-10-26 13:47 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**: Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrangements, yet their outputs require geometric reasoning to become physically valid 3D scenes. We introduce SceneBloom, an agentic framework that combine... | [Read Paper](https://arxiv.org/abs/2610.32978v1) |
 | 💼 **Lead** | **Tesser**: No description provided. | [Visit Site](https://tesser.sh/) |
+
 
 
 ### ⚡ Pulse Log: 2026-10-25 12:16 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs**: Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jump as replayable 3D motion placed in the 3D scene. Here we present a model that directly co-generates the video and 3D motion for any supplied rig, along ... | [Read Paper](https://arxiv.org/abs/2610.28632v1) |
-| 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
-
-
-
-### ⚡ Pulse Log: 2026-10-20 12:28 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory**: Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply increasing the inference budget of the base model yields only modest gains. Such tasks demand grounded perception, external knowledge, and numerical measurements obtained through heterogeneous tools, whose outputs... | [Read Paper](https://arxiv.org/abs/2610.26860v1) |
 | 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
 
 <!-- PULSE_END -->
