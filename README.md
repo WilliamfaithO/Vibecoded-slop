@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-10-30 13:45 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Rethinking Neural Thickets Without Weight Perturbations**: The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits match... | [Read Paper](https://arxiv.org/abs/2610.40649v1) |
+| 💼 **Lead** | **Tesser**: No description provided. | [Visit Site](https://tesser.sh/) |
+
+
 ### ⚡ Pulse Log: 2026-10-29 13:53 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction**: Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for efficient 3D scene and 2D image representation. Hexels exploit locally planar regions with smoothly varying appearance using fewer, larger primitives. T... | [Read Paper](https://arxiv.org/abs/2610.37668v1) |
 | 💼 **Lead** | **Tesser**: No description provided. | [Visit Site](https://tesser.sh/) |
+
 
 
 ### ⚡ Pulse Log: 2026-10-28 13:44 UTC
@@ -67,15 +76,6 @@ The Heartbeat Engine automatically updates the log every morning.
 
 
 ### ⚡ Pulse Log: 2026-10-24 11:47 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning**: Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool after generating only a short prefix, committing further computation only to the surviving candidates. Existing pruning strategies di... | [Read Paper](https://arxiv.org/abs/2610.31667v1) |
-| 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
-
-
-
-### ⚡ Pulse Log: 2026-10-23 12:20 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
