@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-11-01 13:58 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Rethinking Neural Thickets Without Weight Perturbations**: The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits match... | [Read Paper](https://arxiv.org/abs/2610.40649v1) |
+| 💼 **Lead** | **Colony**: No description provided. | [Visit Site](https://colony.tech) |
+
+
 ### ⚡ Pulse Log: 2026-10-31 13:14 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Rethinking Neural Thickets Without Weight Perturbations**: The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits match... | [Read Paper](https://arxiv.org/abs/2610.40649v1) |
 | 💼 **Lead** | **Tesser**: No description provided. | [Visit Site](https://tesser.sh/) |
+
 
 
 ### ⚡ Pulse Log: 2026-10-30 13:45 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**: Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise spatial grounding remains difficult. Visual generative models offer rich priors over plausible arrangements, yet their outputs require geometric reasoning to become physically valid 3D scenes. We introduce SceneBloom, an agentic framework that combine... | [Read Paper](https://arxiv.org/abs/2610.32978v1) |
 | 💼 **Lead** | **Tesser**: No description provided. | [Visit Site](https://tesser.sh/) |
-
-
-
-### ⚡ Pulse Log: 2026-10-25 12:16 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning**: Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Running all candidate solutions to completion can be computationally demanding, so recent work prunes the candidate pool after generating only a short prefix, committing further computation only to the surviving candidates. Existing pruning strategies di... | [Read Paper](https://arxiv.org/abs/2610.31667v1) |
-| 💼 **Lead** | **Godpack**: No description provided. | [Visit Site](https://godpack.gg/) |
 
 <!-- PULSE_END -->
 
