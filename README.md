@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-11-03 14:47 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations**: Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies from human data. We first introduce Environment-Aware Retargeting (EAR), which combines reconstructed scene geometry with demonstrated head and gripper trajectories to determine robot posture and generate collision-aware joint and bas... | [Read Paper](https://arxiv.org/abs/2611.03647v1) |
+| 💼 **Lead** | **Colony**: No description provided. | [Visit Site](https://colony.tech) |
+
+
 ### ⚡ Pulse Log: 2026-11-02 16:44 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention**: Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse attention, in which a dedicated indexer selects a subset of keys for the attention. Yet current methods of indexing either still have quadratic cost in context size or lo... | [Read Paper](https://arxiv.org/abs/2610.42147v1) |
 | 💼 **Lead** | **Colony**: No description provided. | [Visit Site](https://colony.tech) |
+
 
 
 ### ⚡ Pulse Log: 2026-11-01 13:58 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction**: Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for efficient 3D scene and 2D image representation. Hexels exploit locally planar regions with smoothly varying appearance using fewer, larger primitives. T... | [Read Paper](https://arxiv.org/abs/2610.37668v1) |
-| 💼 **Lead** | **Tesser**: No description provided. | [Visit Site](https://tesser.sh/) |
-
-
-
-### ⚡ Pulse Log: 2026-10-27 12:54 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Retriever-Free Retrieval: Navigating Documents with Decision Models**: While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the retriever fails to find, even the strongest generator cannot recover. We propose DecisionRAG, which brings the capabilities of pretrained language models to retrieval using decision models that jointly evaluate candidate branches in a single forward p... | [Read Paper](https://arxiv.org/abs/2610.35868v1) |
 | 💼 **Lead** | **Tesser**: No description provided. | [Visit Site](https://tesser.sh/) |
 
 <!-- PULSE_END -->
