@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-11-07 13:41 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**: LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round wo... | [Read Paper](https://arxiv.org/abs/2611.08483v1) |
+| 💼 **Lead** | **Colony**: No description provided. | [Visit Site](https://colony.tech) |
+
+
 ### ⚡ Pulse Log: 2026-11-06 14:44 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**: LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round wo... | [Read Paper](https://arxiv.org/abs/2611.08483v1) |
 | 💼 **Lead** | **Colony**: No description provided. | [Visit Site](https://colony.tech) |
+
 
 
 ### ⚡ Pulse Log: 2026-11-05 15:05 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Rethinking Neural Thickets Without Weight Perturbations**: The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits match... | [Read Paper](https://arxiv.org/abs/2610.40649v1) |
 | 💼 **Lead** | **Colony**: No description provided. | [Visit Site](https://colony.tech) |
-
-
-
-### ⚡ Pulse Log: 2026-10-31 13:14 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Rethinking Neural Thickets Without Weight Perturbations**: The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits match... | [Read Paper](https://arxiv.org/abs/2610.40649v1) |
-| 💼 **Lead** | **Tesser**: No description provided. | [Visit Site](https://tesser.sh/) |
 
 <!-- PULSE_END -->
 
