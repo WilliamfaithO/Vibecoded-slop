@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-11-08 14:00 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**: LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round wo... | [Read Paper](https://arxiv.org/abs/2611.08483v1) |
+| 💼 **Lead** | **Colony**: No description provided. | [Visit Site](https://colony.tech) |
+
+
 ### ⚡ Pulse Log: 2026-11-07 13:41 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**: LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round wo... | [Read Paper](https://arxiv.org/abs/2611.08483v1) |
 | 💼 **Lead** | **Colony**: No description provided. | [Visit Site](https://colony.tech) |
+
 
 
 ### ⚡ Pulse Log: 2026-11-06 14:44 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention**: Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attention is prohibitively expensive. A promising approach is sparse attention, in which a dedicated indexer selects a subset of keys for the attention. Yet current methods of indexing either still have quadratic cost in context size or lo... | [Read Paper](https://arxiv.org/abs/2610.42147v1) |
-| 💼 **Lead** | **Colony**: No description provided. | [Visit Site](https://colony.tech) |
-
-
-
-### ⚡ Pulse Log: 2026-11-01 13:58 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Rethinking Neural Thickets Without Weight Perturbations**: The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that they do not require this geometric explanation. Perturbing a single decoder block already recovers much of the improvement, while keeping the model entirely frozen and adding a random bias to its output logits match... | [Read Paper](https://arxiv.org/abs/2610.40649v1) |
 | 💼 **Lead** | **Colony**: No description provided. | [Visit Site](https://colony.tech) |
 
 <!-- PULSE_END -->
