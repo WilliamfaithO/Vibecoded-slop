@@ -1618,3 +1618,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **On Agentic Manipulation Policies**: Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze agentic manipulation policies (AMPs), in which a generalist AI model commands the manipulator directly, adapting its actions as the task unfolds. We pres... | [Read Paper](https://arxiv.org/abs/2611.09892v1) |
 | 💼 **Lead** | **Xulux**: No description provided. | [Visit Site](https://xulux.ai/) |
 
+
+### ⚡ Pulse Log: 2026-11-10 15:21 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents**: As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined representations, which may miss relevant memories and overlook heterogeneous evidence needs across queries. We introduce \textbf{\hivemem}, a multimodal memory framework t... | [Read Paper](https://arxiv.org/abs/2611.12872v1) |
+| 💼 **Lead** | **DataNode**: No description provided. | [Visit Site](https://datanodelabs.com) |
+
