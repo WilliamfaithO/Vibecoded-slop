@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-11-12 15:42 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**: Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of ... | [Read Paper](https://arxiv.org/abs/2611.14519v1) |
+| 💼 **Lead** | **Vibe Robotics**: No description provided. | [Visit Site](https://viberobotics.co) |
+
+
 ### ⚡ Pulse Log: 2026-11-11 14:51 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**: Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of ... | [Read Paper](https://arxiv.org/abs/2611.14519v1) |
 | 💼 **Lead** | **DataNode**: No description provided. | [Visit Site](https://datanodelabs.com) |
+
 
 
 ### ⚡ Pulse Log: 2026-11-10 15:21 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**: LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round wo... | [Read Paper](https://arxiv.org/abs/2611.08483v1) |
-| 💼 **Lead** | **Colony**: No description provided. | [Visit Site](https://colony.tech) |
-
-
-
-### ⚡ Pulse Log: 2026-11-05 15:05 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories**: Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act under physical, procedural, and safety constraints. Although Multimodal Large Language Models (MLLMs) are increasingly considered as embodied brains for such systems, existing laboratory benchmarks mainly focus on safety, anomaly detection, or general s... | [Read Paper](https://arxiv.org/abs/2611.06911v1) |
 | 💼 **Lead** | **Colony**: No description provided. | [Visit Site](https://colony.tech) |
 
 <!-- PULSE_END -->
