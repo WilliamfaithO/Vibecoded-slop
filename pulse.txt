@@ -1650,3 +1650,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **AgentSSL: Can MLE Agents Leverage Unlabeled Data?**: Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSS... | [Read Paper](https://arxiv.org/abs/2611.17323v1) |
 | 💼 **Lead** | **Render**: No description provided. | [Visit Site](https://tryrender.ai/) |
 
+
+### ⚡ Pulse Log: 2026-11-14 13:53 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **AgentSSL: Can MLE Agents Leverage Unlabeled Data?**: Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSS... | [Read Paper](https://arxiv.org/abs/2611.17323v1) |
+| 💼 **Lead** | **Render**: No description provided. | [Visit Site](https://tryrender.ai/) |
+
