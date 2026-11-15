@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-11-15 14:27 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **AgentSSL: Can MLE Agents Leverage Unlabeled Data?**: Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSS... | [Read Paper](https://arxiv.org/abs/2611.17323v1) |
+| 💼 **Lead** | **Render**: No description provided. | [Visit Site](https://tryrender.ai/) |
+
+
 ### ⚡ Pulse Log: 2026-11-14 13:53 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **AgentSSL: Can MLE Agents Leverage Unlabeled Data?**: Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSS... | [Read Paper](https://arxiv.org/abs/2611.17323v1) |
 | 💼 **Lead** | **Render**: No description provided. | [Visit Site](https://tryrender.ai/) |
+
 
 
 ### ⚡ Pulse Log: 2026-11-13 15:01 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **On Agentic Manipulation Policies**: Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze agentic manipulation policies (AMPs), in which a generalist AI model commands the manipulator directly, adapting its actions as the task unfolds. We pres... | [Read Paper](https://arxiv.org/abs/2611.09892v1) |
 | 💼 **Lead** | **Xulux**: No description provided. | [Visit Site](https://xulux.ai/) |
-
-
-
-### ⚡ Pulse Log: 2026-11-08 14:00 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization**: LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process is often slow because the LLM generates a long textual chain of thought for each round and must repeat this generation many times to maintain population diversity. We present SwarmEvolve, a framework in which hundreds of low-cost agents per round wo... | [Read Paper](https://arxiv.org/abs/2611.08483v1) |
-| 💼 **Lead** | **Colony**: No description provided. | [Visit Site](https://colony.tech) |
 
 <!-- PULSE_END -->
 
