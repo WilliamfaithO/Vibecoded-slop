@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-11-16 16:40 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **WeightBench: Evaluating Language Models as Weight-Space Programmers**: Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight-Space Programming (WSP). Exploring this new paradigm systematically requires a robust benchmark. We introduce WEIGHTBENCH, a benchmark that evaluates... | [Read Paper](https://arxiv.org/abs/2611.18553v1) |
+| 💼 **Lead** | **Render**: No description provided. | [Visit Site](https://tryrender.ai/) |
+
+
 ### ⚡ Pulse Log: 2026-11-15 14:27 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **AgentSSL: Can MLE Agents Leverage Unlabeled Data?**: Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSS... | [Read Paper](https://arxiv.org/abs/2611.17323v1) |
 | 💼 **Lead** | **Render**: No description provided. | [Visit Site](https://tryrender.ai/) |
+
 
 
 ### ⚡ Pulse Log: 2026-11-14 13:53 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents**: As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typically rely on semantic retrieval over compressed memories and expose predefined representations, which may miss relevant memories and overlook heterogeneous evidence needs across queries. We introduce \textbf{\hivemem}, a multimodal memory framework t... | [Read Paper](https://arxiv.org/abs/2611.12872v1) |
 | 💼 **Lead** | **DataNode**: No description provided. | [Visit Site](https://datanodelabs.com) |
-
-
-
-### ⚡ Pulse Log: 2026-11-09 17:03 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **On Agentic Manipulation Policies**: Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such as vision-language-action models (VLAs) and world-action models (WAMs). We systematically analyze agentic manipulation policies (AMPs), in which a generalist AI model commands the manipulator directly, adapting its actions as the task unfolds. We pres... | [Read Paper](https://arxiv.org/abs/2611.09892v1) |
-| 💼 **Lead** | **Xulux**: No description provided. | [Visit Site](https://xulux.ai/) |
 
 <!-- PULSE_END -->
 
