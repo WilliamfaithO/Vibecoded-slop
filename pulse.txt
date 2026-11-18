@@ -1682,3 +1682,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **Latent Lattice Language Models**: Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains. We introduce the Lattice of Latents, a set of per-layer horizontal latent streams that run recurrently along time, alongside the vertical residual stream ... | [Read Paper](https://arxiv.org/abs/2611.21608v1) |
 | 💼 **Lead** | **Render**: No description provided. | [Visit Site](https://tryrender.ai/) |
 
+
+### ⚡ Pulse Log: 2026-11-18 16:06 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching**: Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution. To prevent this collapse, we introduce Ambient SFT, a principled framework for leveraging imperf... | [Read Paper](https://arxiv.org/abs/2611.23229v1) |
+| 💼 **Lead** | **Render**: No description provided. | [Visit Site](https://tryrender.ai/) |
+
