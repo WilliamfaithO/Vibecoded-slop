@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-11-19 16:13 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems**: When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We develop a trait theory of reviewer value to make it precise. The theory makes five claims: value is governed by calibration rather than by activity, spe... | [Read Paper](https://arxiv.org/abs/2611.24932v1) |
+| 💼 **Lead** | **HIRO Industries**: No description provided. | [Visit Site](https://hiroindustries.com) |
+
+
 ### ⚡ Pulse Log: 2026-11-18 16:06 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching**: Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution. To prevent this collapse, we introduce Ambient SFT, a principled framework for leveraging imperf... | [Read Paper](https://arxiv.org/abs/2611.23229v1) |
 | 💼 **Lead** | **Render**: No description provided. | [Visit Site](https://tryrender.ai/) |
+
 
 
 ### ⚡ Pulse Log: 2026-11-17 16:37 UTC
@@ -72,15 +81,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **AgentSSL: Can MLE Agents Leverage Unlabeled Data?**: Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSS... | [Read Paper](https://arxiv.org/abs/2611.17323v1) |
 | 💼 **Lead** | **Render**: No description provided. | [Visit Site](https://tryrender.ai/) |
-
-
-
-### ⚡ Pulse Log: 2026-11-12 15:42 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training**: Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of ... | [Read Paper](https://arxiv.org/abs/2611.14519v1) |
-| 💼 **Lead** | **Vibe Robotics**: No description provided. | [Visit Site](https://viberobotics.co) |
 
 <!-- PULSE_END -->
 
