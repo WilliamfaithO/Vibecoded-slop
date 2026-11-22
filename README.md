@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-11-22 14:59 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **PlayCraft: Designing Engaging Games from Agent Play Experience**: Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its detailed play experience to revise them for mastery. Starting from an initial game, PlayCraft alternates between playing and crafting. In the playing... | [Read Paper](https://arxiv.org/abs/2611.26624v1) |
+| 💼 **Lead** | **HIRO Industries**: No description provided. | [Visit Site](https://hiroindustries.com) |
+
+
 ### ⚡ Pulse Log: 2026-11-21 15:01 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **PlayCraft: Designing Engaging Games from Agent Play Experience**: Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its detailed play experience to revise them for mastery. Starting from an initial game, PlayCraft alternates between playing and crafting. In the playing... | [Read Paper](https://arxiv.org/abs/2611.26624v1) |
 | 💼 **Lead** | **HIRO Industries**: No description provided. | [Visit Site](https://hiroindustries.com) |
+
 
 
 ### ⚡ Pulse Log: 2026-11-20 15:52 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **WeightBench: Evaluating Language Models as Weight-Space Programmers**: Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability has been termed Weight-Space Programming (WSP). Exploring this new paradigm systematically requires a robust benchmark. We introduce WEIGHTBENCH, a benchmark that evaluates... | [Read Paper](https://arxiv.org/abs/2611.18553v1) |
-| 💼 **Lead** | **Render**: No description provided. | [Visit Site](https://tryrender.ai/) |
-
-
-
-### ⚡ Pulse Log: 2026-11-15 14:27 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **AgentSSL: Can MLE Agents Leverage Unlabeled Data?**: Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have been studied almost exclusively in fully supervised settings, leaving them untested in realistic regimes where labeled data is scarce but unlabeled data is abundant. In this work, we introduce Agentic Semi-Supervised Learning (AgentSS... | [Read Paper](https://arxiv.org/abs/2611.17323v1) |
 | 💼 **Lead** | **Render**: No description provided. | [Visit Site](https://tryrender.ai/) |
 
 <!-- PULSE_END -->
