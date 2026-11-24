@@ -1730,3 +1730,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **Optimal Linear Regression Without a Variance**: We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\in(1,2)$, and the covariates may only have finite moments up to a given order (e.g., 4th moment). We give a black-box reduction that converts finite-variance regression procedures into weak-moment procedures. The reduction is based on empirical residual pruning and is agnostic to ... | [Read Paper](https://arxiv.org/abs/2611.27983v1) |
 | 💼 **Lead** | **HIRO Industries**: No description provided. | [Visit Site](https://hiroindustries.com) |
 
+
+### ⚡ Pulse Log: 2026-11-24 18:33 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ**: Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities: (1) in-situ monitoring fidelity (does confidence drop when an error occurs?) and (2) downstream steering control (does an uncertainty token causally steer the model to repair its error?). We evaluated four open-w... | [Read Paper](https://arxiv.org/abs/2611.31228v1) |
+| 💼 **Lead** | **HIRO Industries**: No description provided. | [Visit Site](https://hiroindustries.com) |
+
