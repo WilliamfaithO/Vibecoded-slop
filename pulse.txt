@@ -1746,3 +1746,11 @@ Vibe Check at: 2026-03-22 18:00:21.892465
 | 🧠 **Research** | **OmniAct: One Policy, One Million Embodiments**: A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how differences in robot morphology should shape manipulation strategies. We introduce OmniAct, a cross-embodiment manipulation policy that conditions direct... | [Read Paper](https://arxiv.org/abs/2611.33158v1) |
 | 💼 **Lead** | **HIRO Industries**: No description provided. | [Visit Site](https://hiroindustries.com) |
 
+
+### ⚡ Pulse Log: 2026-11-26 17:28 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning**: End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models. Models trained only on an AWGN channel achieve low bit error rates (BERs) under matched conditions but de... | [Read Paper](https://arxiv.org/abs/2611.34942v1) |
+| 💼 **Lead** | **HIRO Industries**: No description provided. | [Visit Site](https://hiroindustries.com) |
+

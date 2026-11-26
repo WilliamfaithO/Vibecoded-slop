@@ -22,12 +22,21 @@ The Heartbeat Engine automatically updates the log every morning.
 
 <!-- PULSE_START -->
 
+### ⚡ Pulse Log: 2026-11-26 17:28 UTC
+| Category | Insight & Intelligence | Action |
+| :--- | :--- | :--- |
+| 🔥 **Trend** | API Error / Rate Limit | N/A |
+| 🧠 **Research** | **Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning**: End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models. Models trained only on an AWGN channel achieve low bit error rates (BERs) under matched conditions but de... | [Read Paper](https://arxiv.org/abs/2611.34942v1) |
+| 💼 **Lead** | **HIRO Industries**: No description provided. | [Visit Site](https://hiroindustries.com) |
+
+
 ### ⚡ Pulse Log: 2026-11-25 17:44 UTC
 | Category | Insight & Intelligence | Action |
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **OmniAct: One Policy, One Million Embodiments**: A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how differences in robot morphology should shape manipulation strategies. We introduce OmniAct, a cross-embodiment manipulation policy that conditions direct... | [Read Paper](https://arxiv.org/abs/2611.33158v1) |
 | 💼 **Lead** | **HIRO Industries**: No description provided. | [Visit Site](https://hiroindustries.com) |
+
 
 
 ### ⚡ Pulse Log: 2026-11-24 18:33 UTC
@@ -71,15 +80,6 @@ The Heartbeat Engine automatically updates the log every morning.
 | :--- | :--- | :--- |
 | 🔥 **Trend** | API Error / Rate Limit | N/A |
 | 🧠 **Research** | **PlayCraft: Designing Engaging Games from Agent Play Experience**: Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its detailed play experience to revise them for mastery. Starting from an initial game, PlayCraft alternates between playing and crafting. In the playing... | [Read Paper](https://arxiv.org/abs/2611.26624v1) |
-| 💼 **Lead** | **HIRO Industries**: No description provided. | [Visit Site](https://hiroindustries.com) |
-
-
-
-### ⚡ Pulse Log: 2026-11-19 16:13 UTC
-| Category | Insight & Intelligence | Action |
-| :--- | :--- | :--- |
-| 🔥 **Trend** | API Error / Rate Limit | N/A |
-| 🧠 **Research** | **Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems**: When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We develop a trait theory of reviewer value to make it precise. The theory makes five claims: value is governed by calibration rather than by activity, spe... | [Read Paper](https://arxiv.org/abs/2611.24932v1) |
 | 💼 **Lead** | **HIRO Industries**: No description provided. | [Visit Site](https://hiroindustries.com) |
 
 <!-- PULSE_END -->
